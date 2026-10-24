@@ -1,0 +1,597 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Path Tracer",
+    "section": "",
+    "text": "A GAME OF VARIANCE, DESCENT AND LIGHT\nPATH TRACER\nShort, visual explainers for the methods of biosocial science. Every symbol gets a picture\nbefore it gets notation. Pick a realm; clear its sectors; the Legendary tier opens at the end.\n\nSELECT REALM\n\nREALM 01The Tangled BankEVOLUTIONWhy would natural selection build bodies, minds and lifespans the way it has?0 of 15 sectors online · 0 in production\nREALM 02The MirrorlandsTWINSPeople differ. How much of that difference traces to their genes, and how can twins tell us?0 of 24 sectors online · 2 in production\nREALM 03The Twisted LadderGENOMESTwins say about half the variance is genetic. Where, in the DNA, is it?0 of 17 sectors online · 0 in production\nREALM 04The Sparse WastesSHRINKAGEHow do you fit a model with more predictors than people?0 of 7 sectors online · 0 in production\nREALM 05The Clockwork CitadelMETHYLATIONWhat do chemical marks on DNA tell us about experience and ageing?0 of 12 sectors online · 0 in production"
+  },
+  {
+    "objectID": "sectors/evolution-04.html",
+    "href": "sectors/evolution-04.html",
+    "title": "Kin selection",
+    "section": "",
+    "text": "REALM 01 // THE TANGLED BANK · SECTOR 04\nKin selection\nWhen does helping a relative pay, and where does Hamilton's r come from?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 03 · The gene's-eye view\nREALM MAP\n→ SECTOR 05 · Reciprocal altruism"
+  },
+  {
+    "objectID": "sectors/evolution-05.html",
+    "href": "sectors/evolution-05.html",
+    "title": "Reciprocal altruism",
+    "section": "",
+    "text": "REALM 01 // THE TANGLED BANK · SECTOR 05\nReciprocal altruism\nHow can cooperation among non-relatives survive cheaters?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 04 · Kin selection\nREALM MAP\n→ SECTOR 06 · Sexual selection"
+  },
+  {
+    "objectID": "sectors/genomes-11.html",
+    "href": "sectors/genomes-11.html",
+    "title": "Genetic correlation",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR 11\nGenetic correlation\nDo two traits share genetic influences, measured in DNA?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 10 · LD score regression\nREALM MAP\n→ SECTOR 12 · Polygenic scores"
+  },
+  {
+    "objectID": "sectors/evolution-06.html",
+    "href": "sectors/evolution-06.html",
+    "title": "Sexual selection",
+    "section": "",
+    "text": "REALM 01 // THE TANGLED BANK · SECTOR 06\nSexual selection\nHow do mate choice and parental investment shape risk-taking?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 05 · Reciprocal altruism\nREALM MAP\n→ SECTOR 07 · Drift"
+  },
+  {
+    "objectID": "sectors/twins-10.html",
+    "href": "sectors/twins-10.html",
+    "title": "Fitting the model",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 10\nFitting the model\nWhat do real studies do beyond Falconer?\nLOCKED 5-7 min\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 09 · The ACE path diagram\nREALM MAP\n→ SECTOR 11 · Reading the estimates"
+  },
+  {
+    "objectID": "sectors/shrinkage-03.html",
+    "href": "sectors/shrinkage-03.html",
+    "title": "Lasso regression",
+    "section": "",
+    "text": "REALM 04 // THE SPARSE WASTES · SECTOR 03\nLasso regression\nHow can a penalty set coefficients exactly to zero?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 02 · Ridge regression\nREALM MAP\n→ SECTOR 04 · Elastic net"
+  },
+  {
+    "objectID": "sectors/evolution-L02.html",
+    "href": "sectors/evolution-L02.html",
+    "title": "Fisher’s fundamental theorem",
+    "section": "",
+    "text": "REALM 01 // THE TANGLED BANK · SECTOR L02 · LEGENDARY\nFisher's fundamental theorem\nWhy does the speed of adaptation equal genetic variance in fitness?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR L01 · The Price equation\nREALM MAP"
+  },
+  {
+    "objectID": "sectors/genomes-03.html",
+    "href": "sectors/genomes-03.html",
+    "title": "Linkage disequilibrium",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR 03\nLinkage disequilibrium\nWhy do neighbouring variants travel together?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 02 · DNA as data\nREALM MAP\n→ SECTOR 04 · A million regressions"
+  },
+  {
+    "objectID": "sectors/twins-03.html",
+    "href": "sectors/twins-03.html",
+    "title": "Standard units",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 03\nStandard units\nWhy rescale so the total is 1?\nLOCKED 3-4 min\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 02 · Correlation\nREALM MAP\n→ SECTOR 04 · Genes add up"
+  },
+  {
+    "objectID": "sectors/genomes-L01.html",
+    "href": "sectors/genomes-L01.html",
+    "title": "Within-family designs",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR L01 · LEGENDARY\nWithin-family designs\nHow do siblings separate direct genetic effects from family?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 13 · How good is a polygenic score?\nREALM MAP\n→ SECTOR L02 · Genomic SEM"
+  },
+  {
+    "objectID": "sectors/twins-14.html",
+    "href": "sectors/twins-14.html",
+    "title": "Non-additive genes",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 14\nNon-additive genes\nWhat if genetic effects don't simply add up?\nLOCKED 5-7 min\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 13 · Assortative mating\nREALM MAP\n→ SECTOR 15 · Gene × environment interaction"
+  },
+  {
+    "objectID": "sectors/twins-05.html",
+    "href": "sectors/twins-05.html",
+    "title": "What twins share",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 05\nWhat twins share\nWhy 100% for MZ and ½ for DZ?\nLOCKED 5-6 min\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 04 · Genes add up\nREALM MAP\n→ SECTOR 06 · Shared and unique environment"
+  },
+  {
+    "objectID": "sectors/genomes-12.html",
+    "href": "sectors/genomes-12.html",
+    "title": "Polygenic scores",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR 12\nPolygenic scores\nHow do you add up a million tiny effects for one person?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 11 · Genetic correlation\nREALM MAP\n→ SECTOR 13 · How good is a polygenic score?"
+  },
+  {
+    "objectID": "sectors/methylation-02.html",
+    "href": "sectors/methylation-02.html",
+    "title": "What the array measures",
+    "section": "",
+    "text": "REALM 05 // THE CLOCKWORK CITADEL · SECTOR 02\nWhat the array measures\nHow do 850,000 numbers come out of a blood sample?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 01 · Marks on the DNA\nREALM MAP\n→ SECTOR 03 · Beta values and M-values"
+  },
+  {
+    "objectID": "sectors/genomes-01.html",
+    "href": "sectors/genomes-01.html",
+    "title": "Where are the genes?",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR 01\nWhere are the genes?\nTwins say h² is about .5. Why is finding the genes so hard?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n\nREALM MAP\n→ SECTOR 02 · DNA as data"
+  },
+  {
+    "objectID": "sectors/genomes-02.html",
+    "href": "sectors/genomes-02.html",
+    "title": "DNA as data",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR 02\nDNA as data\nHow does a genome become a column of 0s, 1s and 2s?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 01 · Where are the genes?\nREALM MAP\n→ SECTOR 03 · Linkage disequilibrium"
+  },
+  {
+    "objectID": "sectors/twins-08.html",
+    "href": "sectors/twins-08.html",
+    "title": "Falconer’s formula",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 08\nFalconer's formula\nHow do two correlations give us heritability?\nIN PRODUCTION 4-5 min\n\nSECTOR IN PRODUCTIONBeing built.\n\n← SECTOR 07 · What heritability means\nREALM MAP\n→ SECTOR 09 · The ACE path diagram"
+  },
+  {
+    "objectID": "sectors/twins-06.html",
+    "href": "sectors/twins-06.html",
+    "title": "Shared and unique environment",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 06\nShared and unique environment\nWhat counts as C, and what as E?\nLOCKED 4-5 min\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 05 · What twins share\nREALM MAP\n→ SECTOR 07 · What heritability means"
+  },
+  {
+    "objectID": "sectors/genomes-09.html",
+    "href": "sectors/genomes-09.html",
+    "title": "Missing heritability",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR 09\nMissing heritability\nWhy is SNP-h² smaller than twin h²?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 08 · SNP heritability\nREALM MAP\n→ SECTOR 10 · LD score regression"
+  },
+  {
+    "objectID": "sectors/evolution-L01.html",
+    "href": "sectors/evolution-L01.html",
+    "title": "The Price equation",
+    "section": "",
+    "text": "REALM 01 // THE TANGLED BANK · SECTOR L01 · LEGENDARY\nThe Price equation\nCan all of selection be written as one covariance?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 13 · Disposable soma\nREALM MAP\n→ SECTOR L02 · Fisher's fundamental theorem"
+  },
+  {
+    "objectID": "sectors/methylation-L02.html",
+    "href": "sectors/methylation-L02.html",
+    "title": "Epigenetic inheritance",
+    "section": "",
+    "text": "REALM 05 // THE CLOCKWORK CITADEL · SECTOR L02 · LEGENDARY\nEpigenetic inheritance\nWhat passes between generations, and what doesn't?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR L01 · meQTLs\nREALM MAP"
+  },
+  {
+    "objectID": "sectors/methylation-01.html",
+    "href": "sectors/methylation-01.html",
+    "title": "Marks on the DNA",
+    "section": "",
+    "text": "REALM 05 // THE CLOCKWORK CITADEL · SECTOR 01\nMarks on the DNA\nWhat is a methylated CpG site?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n\nREALM MAP\n→ SECTOR 02 · What the array measures"
+  },
+  {
+    "objectID": "sectors/genomes-08.html",
+    "href": "sectors/genomes-08.html",
+    "title": "SNP heritability",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR 08\nSNP heritability\nHow much variance do measured SNPs explain together (GCTA-GREML)?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 07 · Population stratification\nREALM MAP\n→ SECTOR 09 · Missing heritability"
+  },
+  {
+    "objectID": "sectors/twins-04.html",
+    "href": "sectors/twins-04.html",
+    "title": "Genes add up",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 04\nGenes add up\nHow do many small genetic effects make a smooth trait?\nLOCKED 4-5 min\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 03 · Standard units\nREALM MAP\n→ SECTOR 05 · What twins share"
+  },
+  {
+    "objectID": "sectors/methylation-05.html",
+    "href": "sectors/methylation-05.html",
+    "title": "Batch effects",
+    "section": "",
+    "text": "REALM 05 // THE CLOCKWORK CITADEL · SECTOR 05\nBatch effects\nHow can the day a plate was run look like biology?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 04 · Cell-type composition\nREALM MAP\n→ SECTOR 06 · EWAS"
+  },
+  {
+    "objectID": "sectors/twins-L05.html",
+    "href": "sectors/twins-L05.html",
+    "title": "Twins across time",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR L05 · LEGENDARY\nTwins across time\nAre the genes behind a trait at 10 the same ones at 20?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR L04 · Moderated twin models\nREALM MAP\n→ SECTOR L06 · Sex limitation"
+  },
+  {
+    "objectID": "sectors/genomes-10.html",
+    "href": "sectors/genomes-10.html",
+    "title": "LD score regression",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR 10\nLD score regression\nHow do summary statistics alone give heritability and confounding?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 09 · Missing heritability\nREALM MAP\n→ SECTOR 11 · Genetic correlation"
+  },
+  {
+    "objectID": "sectors/shrinkage-01.html",
+    "href": "sectors/shrinkage-01.html",
+    "title": "Too many predictors",
+    "section": "",
+    "text": "REALM 04 // THE SPARSE WASTES · SECTOR 01\nToo many predictors\nWhy does ordinary regression break when predictors outnumber people?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n\nREALM MAP\n→ SECTOR 02 · Ridge regression"
+  },
+  {
+    "objectID": "sectors/twins-13.html",
+    "href": "sectors/twins-13.html",
+    "title": "Assortative mating",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 13\nAssortative mating\nWhat if parents pair up on the trait?\nLOCKED 5-6 min\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 12 · Equal environments\nREALM MAP\n→ SECTOR 14 · Non-additive genes"
+  },
+  {
+    "objectID": "sectors/shrinkage-02.html",
+    "href": "sectors/shrinkage-02.html",
+    "title": "Ridge regression",
+    "section": "",
+    "text": "REALM 04 // THE SPARSE WASTES · SECTOR 02\nRidge regression\nWhat does shrinking every coefficient a little buy us?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 01 · Too many predictors\nREALM MAP\n→ SECTOR 03 · Lasso regression"
+  },
+  {
+    "objectID": "sectors/twins-L03.html",
+    "href": "sectors/twins-L03.html",
+    "title": "Common and independent pathways",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR L03 · LEGENDARY\nCommon and independent pathways\nIs there one latent factor behind several traits, or several routes?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR L02 · The Cholesky decomposition\nREALM MAP\n→ SECTOR L04 · Moderated twin models"
+  },
+  {
+    "objectID": "sectors/twins-11.html",
+    "href": "sectors/twins-11.html",
+    "title": "Reading the estimates",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 11\nReading the estimates\nWhat can we say, and not say, from a twin study?\nLOCKED 4-5 min\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 10 · Fitting the model\nREALM MAP\n→ SECTOR 12 · Equal environments"
+  },
+  {
+    "objectID": "sectors/twins-L01.html",
+    "href": "sectors/twins-L01.html",
+    "title": "Two traits at once",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR L01 · LEGENDARY\nTwo traits at once\nDo the same genes influence two different traits?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 18 · Beyond twins\nREALM MAP\n→ SECTOR L02 · The Cholesky decomposition"
+  },
+  {
+    "objectID": "sectors/evolution-08.html",
+    "href": "sectors/evolution-08.html",
+    "title": "Mismatch",
+    "section": "",
+    "text": "REALM 01 // THE TANGLED BANK · SECTOR 08\nMismatch\nWhat happens when an adapted mind lands in a world it wasn't built for?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 07 · Drift\nREALM MAP\n→ SECTOR 09 · Life history"
+  },
+  {
+    "objectID": "sectors/twins-16.html",
+    "href": "sectors/twins-16.html",
+    "title": "Gene–environment correlation",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 16\nGene–environment correlation\nWhat if genes shape the environments people get?\nLOCKED 5-7 min\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 15 · Gene × environment interaction\nREALM MAP\n→ SECTOR 17 · Are twins like everyone else?"
+  },
+  {
+    "objectID": "sectors/genomes-04.html",
+    "href": "sectors/genomes-04.html",
+    "title": "A million regressions",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR 04\nA million regressions\nWhat is a GWAS actually doing?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 03 · Linkage disequilibrium\nREALM MAP\n→ SECTOR 05 · Multiple testing"
+  },
+  {
+    "objectID": "sectors/twins-L06.html",
+    "href": "sectors/twins-L06.html",
+    "title": "Sex limitation",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR L06 · LEGENDARY\nSex limitation\nDo the same genes matter for men and women?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR L05 · Twins across time\nREALM MAP"
+  },
+  {
+    "objectID": "realms/twins.html",
+    "href": "realms/twins.html",
+    "title": "The Mirrorlands",
+    "section": "",
+    "text": "REALM 02 // TWINS\nThe Mirrorlands\nPeople differ. How much of that difference traces to their genes, and how can twins tell us?\n0 of 24 sectors online · 2 in production · 18 core, 6 legendary\n\n\n\nZONE 1 // MEASURING DIFFERENCE\nSECTOR 01VarianceHow do we put a number on \"people differ\"?LOCKED\nSECTOR 02CorrelationHow alike are two people's scores?LOCKED\nSECTOR 03Standard unitsWhy rescale so the total is 1?LOCKED\nZONE 2 // WHERE DIFFERENCE COMES FROM\nSECTOR 04Genes add upHow do many small genetic effects make a smooth trait?LOCKED\nSECTOR 05What twins shareWhy 100% for MZ and ½ for DZ?LOCKED\nSECTOR 06Shared and unique environmentWhat counts as C, and what as E?LOCKED\nSECTOR 07What heritability meansWhat does h² = .60 tell us?LOCKED\nZONE 3 // THE TWIN METHOD\nSECTOR 08Falconer's formulaHow do two correlations give us heritability?IN PRODUCTION\nSECTOR 09The ACE path diagramWhere do the twin equations come from?IN PRODUCTION\nSECTOR 10Fitting the modelWhat do real studies do beyond Falconer?LOCKED\nSECTOR 11Reading the estimatesWhat can we say, and not say, from a twin study?LOCKED\nZONE 4 // WHEN ASSUMPTIONS BEND\nSECTOR 12Equal environmentsWhat if MZ twins share more environment than DZ twins?LOCKED\nSECTOR 13Assortative matingWhat if parents pair up on the trait?LOCKED\nSECTOR 14Non-additive genesWhat if genetic effects don't simply add up?LOCKED\nSECTOR 15Gene × environment interactionWhat if genes matter more in some environments?LOCKED\nSECTOR 16Gene–environment correlationWhat if genes shape the environments people get?LOCKED\nSECTOR 17Are twins like everyone else?How far do twin results generalise?LOCKED\nZONE 5 // BEYOND TWINS\nSECTOR 18Beyond twinsWhat do adoption, extended-family and DNA-based designs add?LOCKED\n\nLEGENDARY\nAdvanced sectors. They open once the core path is clear.\n\nSECTOR L01Two traits at onceDo the same genes influence two different traits?LOCKED\nSECTOR L02The Cholesky decompositionHow does the bivariate model split shared and unique genetic influence?LOCKED\nSECTOR L03Common and independent pathwaysIs there one latent factor behind several traits, or several routes?LOCKED\nSECTOR L04Moderated twin modelsHow do a, c and e change across a measured environment?LOCKED\nSECTOR L05Twins across timeAre the genes behind a trait at 10 the same ones at 20?LOCKED\nSECTOR L06Sex limitationDo the same genes matter for men and women?LOCKED"
+  },
+  {
+    "objectID": "realms/methylation.html",
+    "href": "realms/methylation.html",
+    "title": "The Clockwork Citadel",
+    "section": "",
+    "text": "REALM 05 // METHYLATION\nThe Clockwork Citadel\nWhat do chemical marks on DNA tell us about experience and ageing?\n0 of 12 sectors online · 0 in production · 10 core, 2 legendary\n\n\n\nSECTOR 01Marks on the DNAWhat is a methylated CpG site?LOCKED\nSECTOR 02What the array measuresHow do 850,000 numbers come out of a blood sample?LOCKED\nSECTOR 03Beta values and M-valuesWhy are methylation data shaped like a U, and what do we do about it?LOCKED\nSECTOR 04Cell-type compositionIs it the methylation, or just a different mix of cells?LOCKED\nSECTOR 05Batch effectsHow can the day a plate was run look like biology?LOCKED\nSECTOR 06EWASWhat is an epigenome-wide association study testing?LOCKED\nSECTOR 07Differentially methylated regionsWhy look at neighbourhoods of sites instead of one at a time?LOCKED\nSECTOR 08Building a clockHow does elastic net turn methylation into an age?LOCKED\nSECTOR 09Generations of clocksWhat changed from Horvath and Hannum to PhenoAge, GrimAge and DunedinPACE?LOCKED\nSECTOR 10Age accelerationWhat does it mean to be biologically older than your age?LOCKED\n\nLEGENDARY\nAdvanced sectors. They open once the core path is clear.\n\nSECTOR L01meQTLsHow much of methylation is set by the genome?LOCKED\nSECTOR L02Epigenetic inheritanceWhat passes between generations, and what doesn't?LOCKED"
+  },
+  {
+    "objectID": "realms/genomes.html",
+    "href": "realms/genomes.html",
+    "title": "The Twisted Ladder",
+    "section": "",
+    "text": "REALM 03 // GENOMES\nThe Twisted Ladder\nTwins say about half the variance is genetic. Where, in the DNA, is it?\n0 of 17 sectors online · 0 in production · 13 core, 4 legendary\n\n\n\nSECTOR 01Where are the genes?Twins say h² is about .5. Why is finding the genes so hard?LOCKED\nSECTOR 02DNA as dataHow does a genome become a column of 0s, 1s and 2s?LOCKED\nSECTOR 03Linkage disequilibriumWhy do neighbouring variants travel together?LOCKED\nSECTOR 04A million regressionsWhat is a GWAS actually doing?LOCKED\nSECTOR 05Multiple testingWhy is the bar 5 × 10⁻⁸?LOCKED\nSECTOR 06Reading a Manhattan plotWhat do the skyscrapers and the QQ plot tell us?LOCKED\nSECTOR 07Population stratificationHow can ancestry fake a genetic effect, and how do principal components help?LOCKED\nSECTOR 08SNP heritabilityHow much variance do measured SNPs explain together (GCTA-GREML)?LOCKED\nSECTOR 09Missing heritabilityWhy is SNP-h² smaller than twin h²?LOCKED\nSECTOR 10LD score regressionHow do summary statistics alone give heritability and confounding?LOCKED\nSECTOR 11Genetic correlationDo two traits share genetic influences, measured in DNA?LOCKED\nSECTOR 12Polygenic scoresHow do you add up a million tiny effects for one person?LOCKED\nSECTOR 13How good is a polygenic score?What does incremental R² mean, and why do scores travel badly across ancestries?LOCKED\n\nLEGENDARY\nAdvanced sectors. They open once the core path is clear.\n\nSECTOR L01Within-family designsHow do siblings separate direct genetic effects from family?LOCKED\nSECTOR L02Genomic SEMHow do you fit a factor model to genetic correlations?LOCKED\nSECTOR L03Mendelian randomizationCan genes act as a natural experiment for cause and effect?LOCKED\nSECTOR L04Fine-mappingWhich variant in a hit region is the real one?LOCKED"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "How to play",
+    "section": "",
+    "text": "Path Tracer is a library of short explainer videos on the methods behind biosocial science: how evolution shapes behaviour, how twins reveal heritability, how genome-wide studies find genes, how penalized regression tames a million predictors, and how marks on DNA keep biological time."
+  },
+  {
+    "objectID": "about.html#the-rules-of-the-game",
+    "href": "about.html#the-rules-of-the-game",
+    "title": "How to play",
+    "section": "The rules of the game",
+    "text": "The rules of the game\n\nRealms are the big topics. Each one is a landscape of its own.\nSectors are the episodes, 2–7 minutes each. Every sector answers one question and ends on the next one.\nPlay a realm in order. Sectors build on each other, and each one says up front which earlier sectors it assumes.\nLegendary sectors are the advanced material at the end of each realm. They open once the core path is clear.\nA sector’s light tells you where it stands. Online sectors are released. In production sectors are being built. Locked sectors are planned, and the map shows them anyway, so you can see where the game is going."
+  },
+  {
+    "objectID": "about.html#the-style",
+    "href": "about.html#the-style",
+    "title": "How to play",
+    "section": "The style",
+    "text": "The style\nTwo YouTube channels inspired the house style. StatQuest never skips a step, uses tiny examples and marks every payoff. 3Blue1Brown treats the picture as the argument and keeps the maths exactly right. Path Tracer tries for both: every symbol gets a picture before it gets notation, and nothing is simplified into something false.\nThe look is the Grid, a soft-glow homage to a certain light-cycle film. The name comes from Sewall Wright’s path tracing, the rules that turn a diagram of genes and environments into the equations of the twin model. The light cycle in the videos traces those same paths."
+  },
+  {
+    "objectID": "about.html#who-makes-it",
+    "href": "about.html#who-makes-it",
+    "title": "How to play",
+    "section": "Who makes it",
+    "text": "Who makes it\nPeter Tanksley, a research scientist who teaches biosocial criminology. Path Tracer is an evenings-and-weekends project. The videos are built in Manim Community Edition and this site in Quarto."
+  },
+  {
+    "objectID": "realms/shrinkage.html",
+    "href": "realms/shrinkage.html",
+    "title": "The Sparse Wastes",
+    "section": "",
+    "text": "REALM 04 // SHRINKAGE\nThe Sparse Wastes\nHow do you fit a model with more predictors than people?\n0 of 7 sectors online · 0 in production · 5 core, 2 legendary\n\n\n\nSECTOR 01Too many predictorsWhy does ordinary regression break when predictors outnumber people?LOCKED\nSECTOR 02Ridge regressionWhat does shrinking every coefficient a little buy us?LOCKED\nSECTOR 03Lasso regressionHow can a penalty set coefficients exactly to zero?LOCKED\nSECTOR 04Elastic netWhat happens when you blend ridge and lasso?LOCKED\nSECTOR 05Cross-validationHow do we choose how hard to shrink?LOCKED\n\nLEGENDARY\nAdvanced sectors. They open once the core path is clear.\n\nSECTOR L01The bias–variance trade-offWhy does a deliberately biased model predict better?LOCKED\nSECTOR L02Penalties as priorsWhy are ridge and lasso secretly Bayesian?LOCKED"
+  },
+  {
+    "objectID": "realms/evolution.html",
+    "href": "realms/evolution.html",
+    "title": "The Tangled Bank",
+    "section": "",
+    "text": "REALM 01 // EVOLUTION\nThe Tangled Bank\nWhy would natural selection build bodies, minds and lifespans the way it has?\n0 of 15 sectors online · 0 in production · 13 core, 2 legendary\n\n\n\nSECTOR 01Variation, inheritance, selectionWhat does natural selection need, and what doesn't it need?LOCKED\nSECTOR 02AdaptationWhat makes a trait an adaptation, and what world was it adapted to?LOCKED\nSECTOR 03The gene's-eye viewWhy does selection ultimately favour genes rather than individuals?LOCKED\nSECTOR 04Kin selectionWhen does helping a relative pay, and where does Hamilton's r come from?LOCKED\nSECTOR 05Reciprocal altruismHow can cooperation among non-relatives survive cheaters?LOCKED\nSECTOR 06Sexual selectionHow do mate choice and parental investment shape risk-taking?LOCKED\nSECTOR 07DriftHow does evolution happen by sampling error alone?LOCKED\nSECTOR 08MismatchWhat happens when an adapted mind lands in a world it wasn't built for?LOCKED\nSECTOR 09Life historyWhy is living fast a calibration rather than a deficit?LOCKED\nSECTOR 10The Red QueenWhy must species keep running just to stay in place?LOCKED\nSECTOR 11The selection shadowWhy does selection go quiet in old age?LOCKED\nSECTOR 12Antagonistic pleiotropyCan a gene that helps the young harm the old?LOCKED\nSECTOR 13Disposable somaWhy does the body age while the germline doesn't?LOCKED\n\nLEGENDARY\nAdvanced sectors. They open once the core path is clear.\n\nSECTOR L01The Price equationCan all of selection be written as one covariance?LOCKED\nSECTOR L02Fisher's fundamental theoremWhy does the speed of adaptation equal genetic variance in fitness?LOCKED"
+  },
+  {
+    "objectID": "sectors/evolution-01.html",
+    "href": "sectors/evolution-01.html",
+    "title": "Variation, inheritance, selection",
+    "section": "",
+    "text": "REALM 01 // THE TANGLED BANK · SECTOR 01\nVariation, inheritance, selection\nWhat does natural selection need, and what doesn't it need?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n\nREALM MAP\n→ SECTOR 02 · Adaptation"
+  },
+  {
+    "objectID": "sectors/evolution-13.html",
+    "href": "sectors/evolution-13.html",
+    "title": "Disposable soma",
+    "section": "",
+    "text": "REALM 01 // THE TANGLED BANK · SECTOR 13\nDisposable soma\nWhy does the body age while the germline doesn't?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 12 · Antagonistic pleiotropy\nREALM MAP\n→ SECTOR L01 · The Price equation"
+  },
+  {
+    "objectID": "sectors/genomes-L04.html",
+    "href": "sectors/genomes-L04.html",
+    "title": "Fine-mapping",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR L04 · LEGENDARY\nFine-mapping\nWhich variant in a hit region is the real one?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR L03 · Mendelian randomization\nREALM MAP"
+  },
+  {
+    "objectID": "sectors/shrinkage-05.html",
+    "href": "sectors/shrinkage-05.html",
+    "title": "Cross-validation",
+    "section": "",
+    "text": "REALM 04 // THE SPARSE WASTES · SECTOR 05\nCross-validation\nHow do we choose how hard to shrink?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 04 · Elastic net\nREALM MAP\n→ SECTOR L01 · The bias–variance trade-off"
+  },
+  {
+    "objectID": "sectors/genomes-L03.html",
+    "href": "sectors/genomes-L03.html",
+    "title": "Mendelian randomization",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR L03 · LEGENDARY\nMendelian randomization\nCan genes act as a natural experiment for cause and effect?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR L02 · Genomic SEM\nREALM MAP\n→ SECTOR L04 · Fine-mapping"
+  },
+  {
+    "objectID": "sectors/methylation-08.html",
+    "href": "sectors/methylation-08.html",
+    "title": "Building a clock",
+    "section": "",
+    "text": "REALM 05 // THE CLOCKWORK CITADEL · SECTOR 08\nBuilding a clock\nHow does elastic net turn methylation into an age?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 07 · Differentially methylated regions\nREALM MAP\n→ SECTOR 09 · Generations of clocks"
+  },
+  {
+    "objectID": "sectors/genomes-05.html",
+    "href": "sectors/genomes-05.html",
+    "title": "Multiple testing",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR 05\nMultiple testing\nWhy is the bar 5 × 10⁻⁸?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 04 · A million regressions\nREALM MAP\n→ SECTOR 06 · Reading a Manhattan plot"
+  },
+  {
+    "objectID": "sectors/twins-01.html",
+    "href": "sectors/twins-01.html",
+    "title": "Variance",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 01\nVariance\nHow do we put a number on \"people differ\"?\nLOCKED 4-5 min\n\nSECTOR LOCKEDSignal not yet acquired.\n\n\nREALM MAP\n→ SECTOR 02 · Correlation"
+  },
+  {
+    "objectID": "sectors/twins-L02.html",
+    "href": "sectors/twins-L02.html",
+    "title": "The Cholesky decomposition",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR L02 · LEGENDARY\nThe Cholesky decomposition\nHow does the bivariate model split shared and unique genetic influence?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR L01 · Two traits at once\nREALM MAP\n→ SECTOR L03 · Common and independent pathways"
+  },
+  {
+    "objectID": "sectors/genomes-07.html",
+    "href": "sectors/genomes-07.html",
+    "title": "Population stratification",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR 07\nPopulation stratification\nHow can ancestry fake a genetic effect, and how do principal components help?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 06 · Reading a Manhattan plot\nREALM MAP\n→ SECTOR 08 · SNP heritability"
+  },
+  {
+    "objectID": "sectors/evolution-10.html",
+    "href": "sectors/evolution-10.html",
+    "title": "The Red Queen",
+    "section": "",
+    "text": "REALM 01 // THE TANGLED BANK · SECTOR 10\nThe Red Queen\nWhy must species keep running just to stay in place?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 09 · Life history\nREALM MAP\n→ SECTOR 11 · The selection shadow"
+  },
+  {
+    "objectID": "sectors/evolution-12.html",
+    "href": "sectors/evolution-12.html",
+    "title": "Antagonistic pleiotropy",
+    "section": "",
+    "text": "REALM 01 // THE TANGLED BANK · SECTOR 12\nAntagonistic pleiotropy\nCan a gene that helps the young harm the old?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 11 · The selection shadow\nREALM MAP\n→ SECTOR 13 · Disposable soma"
+  },
+  {
+    "objectID": "sectors/twins-12.html",
+    "href": "sectors/twins-12.html",
+    "title": "Equal environments",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 12\nEqual environments\nWhat if MZ twins share more environment than DZ twins?\nLOCKED 5-6 min\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 11 · Reading the estimates\nREALM MAP\n→ SECTOR 13 · Assortative mating"
+  },
+  {
+    "objectID": "sectors/twins-L04.html",
+    "href": "sectors/twins-L04.html",
+    "title": "Moderated twin models",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR L04 · LEGENDARY\nModerated twin models\nHow do a, c and e change across a measured environment?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR L03 · Common and independent pathways\nREALM MAP\n→ SECTOR L05 · Twins across time"
+  },
+  {
+    "objectID": "sectors/shrinkage-L01.html",
+    "href": "sectors/shrinkage-L01.html",
+    "title": "The bias–variance trade-off",
+    "section": "",
+    "text": "REALM 04 // THE SPARSE WASTES · SECTOR L01 · LEGENDARY\nThe bias–variance trade-off\nWhy does a deliberately biased model predict better?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 05 · Cross-validation\nREALM MAP\n→ SECTOR L02 · Penalties as priors"
+  },
+  {
+    "objectID": "sectors/genomes-06.html",
+    "href": "sectors/genomes-06.html",
+    "title": "Reading a Manhattan plot",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR 06\nReading a Manhattan plot\nWhat do the skyscrapers and the QQ plot tell us?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 05 · Multiple testing\nREALM MAP\n→ SECTOR 07 · Population stratification"
+  },
+  {
+    "objectID": "sectors/twins-18.html",
+    "href": "sectors/twins-18.html",
+    "title": "Beyond twins",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 18\nBeyond twins\nWhat do adoption, extended-family and DNA-based designs add?\nLOCKED 5-7 min\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 17 · Are twins like everyone else?\nREALM MAP\n→ SECTOR L01 · Two traits at once"
+  },
+  {
+    "objectID": "sectors/evolution-11.html",
+    "href": "sectors/evolution-11.html",
+    "title": "The selection shadow",
+    "section": "",
+    "text": "REALM 01 // THE TANGLED BANK · SECTOR 11\nThe selection shadow\nWhy does selection go quiet in old age?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 10 · The Red Queen\nREALM MAP\n→ SECTOR 12 · Antagonistic pleiotropy"
+  },
+  {
+    "objectID": "sectors/genomes-13.html",
+    "href": "sectors/genomes-13.html",
+    "title": "How good is a polygenic score?",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR 13\nHow good is a polygenic score?\nWhat does incremental R² mean, and why do scores travel badly across ancestries?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 12 · Polygenic scores\nREALM MAP\n→ SECTOR L01 · Within-family designs"
+  },
+  {
+    "objectID": "sectors/twins-09.html",
+    "href": "sectors/twins-09.html",
+    "title": "The ACE path diagram",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 09\nThe ACE path diagram\nWhere do the twin equations come from?\nIN PRODUCTION 6-7 min\n\nIN PRODUCTION\n\n\n\n\n\n\nNoteThe maths, slowly\n\n\n\n\n\nDraft — last updated October 23, 2026.\nPut every variable on a standard scale, so each has variance 1. A twin’s score P is built from three latent sources, each with variance 1: additive genes A, shared environment C and unique environment E. The paths from them to P are a, c and e.\nWright’s tracing rules. The covariance between two variables is the sum, over every allowed chain between them, of the product of the path values along the chain. A chain may go backwards along arrows and then forwards, never forwards then backwards. It passes through at most one double-headed arrow, and it visits no variable twice.\nOne twin. A variable’s variance is its covariance with itself: the chains that leave P and come back.\n\\operatorname{Var}(P) = a^2 + c^2 + e^2 = 1\nIdentical (MZ) pairs. Twin 1’s A correlates 1 with twin 2’s A, and the C’s correlate 1. The E’s are not linked.\nr_{MZ} = a^2 + c^2\nFraternal (DZ) pairs. The A’s correlate ½, because DZ twins share half their segregating genes on average. The C’s still correlate 1.\nr_{DZ} = \\tfrac{1}{2}a^2 + c^2\nSubtract. The shared environment cancels:\nr_{MZ} - r_{DZ} = \\tfrac{1}{2}a^2 \\quad\\Rightarrow\\quad h^2 = a^2 = 2\\,(r_{MZ} - r_{DZ})\nWith the running example (r_MZ = .70, r_DZ = .40): a² = .60, c² = .70 − .60 = .10, e² = 1 − .70 = .30.\n\n\n\n\n← SECTOR 08 · Falconer's formula\nREALM MAP\n→ SECTOR 10 · Fitting the model"
+  },
+  {
+    "objectID": "sectors/twins-15.html",
+    "href": "sectors/twins-15.html",
+    "title": "Gene × environment interaction",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 15\nGene × environment interaction\nWhat if genes matter more in some environments?\nLOCKED 5-7 min\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 14 · Non-additive genes\nREALM MAP\n→ SECTOR 16 · Gene–environment correlation"
+  },
+  {
+    "objectID": "sectors/twins-02.html",
+    "href": "sectors/twins-02.html",
+    "title": "Correlation",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 02\nCorrelation\nHow alike are two people's scores?\nLOCKED 5-6 min\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 01 · Variance\nREALM MAP\n→ SECTOR 03 · Standard units"
+  },
+  {
+    "objectID": "sectors/methylation-07.html",
+    "href": "sectors/methylation-07.html",
+    "title": "Differentially methylated regions",
+    "section": "",
+    "text": "REALM 05 // THE CLOCKWORK CITADEL · SECTOR 07\nDifferentially methylated regions\nWhy look at neighbourhoods of sites instead of one at a time?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 06 · EWAS\nREALM MAP\n→ SECTOR 08 · Building a clock"
+  },
+  {
+    "objectID": "sectors/methylation-10.html",
+    "href": "sectors/methylation-10.html",
+    "title": "Age acceleration",
+    "section": "",
+    "text": "REALM 05 // THE CLOCKWORK CITADEL · SECTOR 10\nAge acceleration\nWhat does it mean to be biologically older than your age?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 09 · Generations of clocks\nREALM MAP\n→ SECTOR L01 · meQTLs"
+  },
+  {
+    "objectID": "sectors/methylation-06.html",
+    "href": "sectors/methylation-06.html",
+    "title": "EWAS",
+    "section": "",
+    "text": "REALM 05 // THE CLOCKWORK CITADEL · SECTOR 06\nEWAS\nWhat is an epigenome-wide association study testing?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 05 · Batch effects\nREALM MAP\n→ SECTOR 07 · Differentially methylated regions"
+  },
+  {
+    "objectID": "sectors/genomes-L02.html",
+    "href": "sectors/genomes-L02.html",
+    "title": "Genomic SEM",
+    "section": "",
+    "text": "REALM 03 // THE TWISTED LADDER · SECTOR L02 · LEGENDARY\nGenomic SEM\nHow do you fit a factor model to genetic correlations?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR L01 · Within-family designs\nREALM MAP\n→ SECTOR L03 · Mendelian randomization"
+  },
+  {
+    "objectID": "sectors/methylation-09.html",
+    "href": "sectors/methylation-09.html",
+    "title": "Generations of clocks",
+    "section": "",
+    "text": "REALM 05 // THE CLOCKWORK CITADEL · SECTOR 09\nGenerations of clocks\nWhat changed from Horvath and Hannum to PhenoAge, GrimAge and DunedinPACE?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 08 · Building a clock\nREALM MAP\n→ SECTOR 10 · Age acceleration"
+  },
+  {
+    "objectID": "sectors/methylation-L01.html",
+    "href": "sectors/methylation-L01.html",
+    "title": "meQTLs",
+    "section": "",
+    "text": "REALM 05 // THE CLOCKWORK CITADEL · SECTOR L01 · LEGENDARY\nmeQTLs\nHow much of methylation is set by the genome?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 10 · Age acceleration\nREALM MAP\n→ SECTOR L02 · Epigenetic inheritance"
+  },
+  {
+    "objectID": "sectors/evolution-09.html",
+    "href": "sectors/evolution-09.html",
+    "title": "Life history",
+    "section": "",
+    "text": "REALM 01 // THE TANGLED BANK · SECTOR 09\nLife history\nWhy is living fast a calibration rather than a deficit?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 08 · Mismatch\nREALM MAP\n→ SECTOR 10 · The Red Queen"
+  },
+  {
+    "objectID": "sectors/evolution-07.html",
+    "href": "sectors/evolution-07.html",
+    "title": "Drift",
+    "section": "",
+    "text": "REALM 01 // THE TANGLED BANK · SECTOR 07\nDrift\nHow does evolution happen by sampling error alone?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 06 · Sexual selection\nREALM MAP\n→ SECTOR 08 · Mismatch"
+  },
+  {
+    "objectID": "sectors/evolution-02.html",
+    "href": "sectors/evolution-02.html",
+    "title": "Adaptation",
+    "section": "",
+    "text": "REALM 01 // THE TANGLED BANK · SECTOR 02\nAdaptation\nWhat makes a trait an adaptation, and what world was it adapted to?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 01 · Variation, inheritance, selection\nREALM MAP\n→ SECTOR 03 · The gene's-eye view"
+  },
+  {
+    "objectID": "sectors/twins-07.html",
+    "href": "sectors/twins-07.html",
+    "title": "What heritability means",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 07\nWhat heritability means\nWhat does h² = .60 tell us?\nLOCKED 5-7 min\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 06 · Shared and unique environment\nREALM MAP\n→ SECTOR 08 · Falconer's formula"
+  },
+  {
+    "objectID": "sectors/evolution-03.html",
+    "href": "sectors/evolution-03.html",
+    "title": "The gene’s-eye view",
+    "section": "",
+    "text": "REALM 01 // THE TANGLED BANK · SECTOR 03\nThe gene's-eye view\nWhy does selection ultimately favour genes rather than individuals?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 02 · Adaptation\nREALM MAP\n→ SECTOR 04 · Kin selection"
+  },
+  {
+    "objectID": "sectors/shrinkage-04.html",
+    "href": "sectors/shrinkage-04.html",
+    "title": "Elastic net",
+    "section": "",
+    "text": "REALM 04 // THE SPARSE WASTES · SECTOR 04\nElastic net\nWhat happens when you blend ridge and lasso?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 03 · Lasso regression\nREALM MAP\n→ SECTOR 05 · Cross-validation"
+  },
+  {
+    "objectID": "sectors/twins-17.html",
+    "href": "sectors/twins-17.html",
+    "title": "Are twins like everyone else?",
+    "section": "",
+    "text": "REALM 02 // THE MIRRORLANDS · SECTOR 17\nAre twins like everyone else?\nHow far do twin results generalise?\nLOCKED 3-4 min\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 16 · Gene–environment correlation\nREALM MAP\n→ SECTOR 18 · Beyond twins"
+  },
+  {
+    "objectID": "sectors/methylation-03.html",
+    "href": "sectors/methylation-03.html",
+    "title": "Beta values and M-values",
+    "section": "",
+    "text": "REALM 05 // THE CLOCKWORK CITADEL · SECTOR 03\nBeta values and M-values\nWhy are methylation data shaped like a U, and what do we do about it?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 02 · What the array measures\nREALM MAP\n→ SECTOR 04 · Cell-type composition"
+  },
+  {
+    "objectID": "sectors/shrinkage-L02.html",
+    "href": "sectors/shrinkage-L02.html",
+    "title": "Penalties as priors",
+    "section": "",
+    "text": "REALM 04 // THE SPARSE WASTES · SECTOR L02 · LEGENDARY\nPenalties as priors\nWhy are ridge and lasso secretly Bayesian?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR L01 · The bias–variance trade-off\nREALM MAP"
+  },
+  {
+    "objectID": "sectors/methylation-04.html",
+    "href": "sectors/methylation-04.html",
+    "title": "Cell-type composition",
+    "section": "",
+    "text": "REALM 05 // THE CLOCKWORK CITADEL · SECTOR 04\nCell-type composition\nIs it the methylation, or just a different mix of cells?\nLOCKED\n\nSECTOR LOCKEDSignal not yet acquired.\n\n← SECTOR 03 · Beta values and M-values\nREALM MAP\n→ SECTOR 05 · Batch effects"
+  }
+]
