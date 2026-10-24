@@ -1,0 +1,35 @@
+---
+title: "How to play"
+description: "What Path Tracer is, how the realms work, and who makes it."
+---
+
+**Path Tracer** is a library of short explainer videos on the methods behind biosocial science: how evolution shapes
+behaviour, how twins reveal heritability, how genome-wide studies find genes, how penalized regression tames a
+million predictors, and how marks on DNA keep biological time.
+
+## The rules of the game
+
+- **Realms** are the big topics. Each one is a landscape of its own.
+- **Sectors** are the episodes, 2–7 minutes each. Every sector answers one question and ends on the next one.
+- **Play a realm in order.** Sectors build on each other, and each one says up front which earlier sectors it assumes.
+- **Legendary** sectors are the advanced material at the end of each realm. They open once the core path is clear.
+- A sector's light tells you where it stands. **Online** sectors are released. **In production** sectors are being
+  built. **Locked** sectors are planned, and the map shows them anyway, so you can see where the game is going.
+
+## The style
+
+Two YouTube channels inspired the house style.
+[StatQuest](https://www.youtube.com/@statquest) never skips a step, uses tiny examples and marks every payoff.
+[3Blue1Brown](https://www.youtube.com/@3blue1brown) treats the picture as the argument and keeps the maths exactly
+right. Path Tracer tries for both: every symbol gets a picture before it gets notation, and nothing is simplified into
+something false.
+
+The look is *the Grid*, a soft-glow homage to a certain light-cycle film. The name comes from Sewall Wright's
+*path tracing*, the rules that turn a diagram of genes and environments into the equations of the twin model. The
+light cycle in the videos traces those same paths.
+
+## Who makes it
+
+Peter Tanksley, a research scientist who teaches biosocial criminology. Path Tracer is an evenings-and-weekends
+project. The videos are built in [Manim Community Edition](https://www.manim.community/) and this site in
+[Quarto](https://quarto.org/).

@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/
+
+website:
+  title: "Path Tracer"
+  description: "Explainer videos for the methods of biosocial science: evolution, twins, genomes, shrinkage and methylation."
+  site-url: "https://petertanksley.github.io/path-tracer/"
+  favicon: assets/favicon.svg
+  page-navigation: false
+  navbar:
+    background: "#05060F"
+    logo: assets/favicon.svg
+    title: "PATH TRACER"
+    left:
+      - text: "Realms"
+        menu:
+          # Realm order and names come from episodes.yml; update here if a realm is added or renamed.
+          - text: "01 · The Tangled Bank"
+            href: realms/evolution.qmd
+          - text: "02 · The Mirrorlands"
+            href: realms/twins.qmd
+          - text: "03 · The Twisted Ladder"
+            href: realms/genomes.qmd
+          - text: "04 · The Sparse Wastes"
+            href: realms/shrinkage.qmd
+          - text: "05 · The Clockwork Citadel"
+            href: realms/methylation.qmd
+      - text: "How to play"
+        href: about.qmd
+    right:
+      - icon: github
+        href: "https://github.com/petertanksley/path-tracer"
+        aria-label: "Source on GitHub"
+  page-footer:
+    background: "#05060F"
+    left: "PATH TRACER · made with [Manim Community Edition](https://www.manim.community/) and [Quarto](https://quarto.org/)"
+    right: "Peter Tanksley · evenings and weekends"
+
+format:
+  html:
+    theme: [darkly, theme/grid.scss]
+    toc: false
+    smooth-scroll: true
+    html-math-method: katex
+    link-external-newwindow: true
