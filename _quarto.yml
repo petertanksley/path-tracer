@@ -31,6 +31,9 @@ website:
       - text: "How to play"
         href: about.qmd
     right:
+      - icon: youtube
+        href: "https://www.youtube.com/channel/UCKpEfzBSlco8u_MTl6yBymA"
+        aria-label: "Path Tracer on YouTube"
       - icon: github
         href: "https://github.com/petertanksley/path-tracer"
         aria-label: "Source on GitHub"
