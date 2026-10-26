@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,300;0,400;0,600;1,400&family=Orbitron:wght@500;700;900&display=swap");
 
 // "The Grid" (docs/design.md in the production folder). The scene palette lives in scenes/grid_style.py; these
-// are the same values for the web. Realm accents below are site-only drafts until each realm's scene palette is set.
+// are the same values for the web. Sector accents below are site-only drafts until each sector's scene palette is set.
 $grid-ground:    #05060F;
 $grid-panel:     #0B0E1C;
 $grid-type:      #D5E7EE;
@@ -44,12 +44,12 @@ $font-size-root:         17px;
   --accent: #{$grid-cyan};
 }
 
-// One accent per realm (draft).
-.realm-evolution   { --accent: #7FD38F; }
-.realm-twins       { --accent: #45C9DB; }
-.realm-genomes     { --accent: #D957B8; }
-.realm-shrinkage   { --accent: #E0B35A; }
-.realm-methylation { --accent: #A08CF0; }
+// One accent per sector (draft).
+.sector-evolution   { --accent: #7FD38F; }
+.sector-twins       { --accent: #45C9DB; }
+.sector-genomes     { --accent: #D957B8; }
+.sector-shrinkage   { --accent: #E0B35A; }
+.sector-methylation { --accent: #A08CF0; }
 
 body { background: var(--ground); }
 
@@ -61,7 +61,7 @@ body { background: var(--ground); }
 .navbar { border-bottom: 1px solid rgba(217, 87, 184, .45); box-shadow: 0 1px 12px rgba(217, 87, 184, .18); }
 .nav-footer { border-top: 1px solid var(--unlit); font-size: .8rem; }
 
-h1, h2, h3, .hud, .realm-no, .node-tag, .chip, .select-label, .screen-badge, .lock-title {
+h1, h2, h3, .hud, .sector-no, .node-tag, .chip, .select-label, .screen-badge, .lock-title {
   font-family: "Orbitron", sans-serif;
 }
 
@@ -72,7 +72,7 @@ h1, h2, h3, .hud, .realm-no, .node-tag, .chip, .select-label, .screen-badge, .lo
 .hud a { color: inherit; text-decoration: none; }
 .hud a:hover { color: var(--accent); }
 
-// ---- home: realm select -------------------------------------------------------------------------------------
+// ---- home: sector select -------------------------------------------------------------------------------------
 
 .hero { text-align: center; padding: 3.5rem 0 1.5rem; }
 .hero-kicker { font-family: "Orbitron", sans-serif; font-size: .72rem; letter-spacing: .3em; color: var(--pink); }
@@ -84,11 +84,11 @@ h1, h2, h3, .hud, .realm-no, .node-tag, .chip, .select-label, .screen-badge, .lo
 
 .select-label { text-align: center; font-size: .75rem; letter-spacing: .4em; color: var(--secondary); margin: 2rem 0 1rem; }
 
-.realm-grid {
+.sector-grid {
   display: grid; grid-template-columns: repeat(auto-fit, minmax(195px, 1fr)); gap: 1rem;
   max-width: 1150px; margin: 0 auto 6rem; position: relative; z-index: 2;
 }
-.realm-card {
+.sector-card {
   display: flex; flex-direction: column; gap: .45rem; padding: 1.2rem 1.2rem 1rem; text-decoration: none;
   background: rgba(11, 14, 28, .88); border: 1px solid var(--unlit); color: var(--type);
   // chamfered corners, as in the HUD panels
@@ -99,13 +99,13 @@ h1, h2, h3, .hud, .realm-no, .node-tag, .chip, .select-label, .screen-badge, .lo
     box-shadow: inset 0 0 24px color-mix(in srgb, var(--accent) 22%, transparent);
   }
 }
-.realm-no { font-size: .66rem; letter-spacing: .25em; color: var(--accent); }
-.realm-name { font-family: "Orbitron", sans-serif; font-weight: 700; font-size: 1.15rem; line-height: 1.25; @include glow(var(--accent)); }
-.realm-topic { font-size: .72rem; letter-spacing: .22em; color: var(--secondary); }
-.realm-q { font-size: .95rem; flex-grow: 1; }
-.realm-meter { height: 4px; background: var(--unlit); margin-top: .4rem; }
-.realm-meter span { display: block; height: 100%; background: var(--accent); box-shadow: 0 0 8px var(--accent); }
-.realm-stats { font-size: .75rem; color: var(--secondary); }
+.sector-no { font-size: .66rem; letter-spacing: .25em; color: var(--accent); }
+.sector-name { font-family: "Orbitron", sans-serif; font-weight: 700; font-size: 1.15rem; line-height: 1.25; @include glow(var(--accent)); }
+.sector-topic { font-size: .72rem; letter-spacing: .22em; color: var(--secondary); }
+.sector-q { font-size: .95rem; flex-grow: 1; }
+.sector-meter { height: 4px; background: var(--unlit); margin-top: .4rem; }
+.sector-meter span { display: block; height: 100%; background: var(--accent); box-shadow: 0 0 8px var(--accent); }
+.sector-stats { font-size: .75rem; color: var(--secondary); }
 
 // The perspective floor under the horizon, home page only.
 .floor {
@@ -121,14 +121,14 @@ h1, h2, h3, .hud, .realm-no, .node-tag, .chip, .select-label, .screen-badge, .lo
   opacity: .5;
 }
 
-// ---- realm: level map ---------------------------------------------------------------------------------------
+// ---- sector: level map ---------------------------------------------------------------------------------------
 
-.realm-head, .sector-head { padding: 2rem 0 1rem; }
-.realm-title { font-size: clamp(1.8rem, 6vw, 3rem); font-weight: 900; letter-spacing: .06em; @include glow(var(--accent)); }
-.realm-question, .sector-question { font-size: 1.2rem; font-style: italic; color: var(--type); }
-.realm-progress { font-size: .85rem; color: var(--secondary); }
+.sector-head, .level-head { padding: 2rem 0 1rem; }
+.sector-title { font-size: clamp(1.8rem, 6vw, 3rem); font-weight: 900; letter-spacing: .06em; @include glow(var(--accent)); }
+.sector-question, .level-question { font-size: 1.2rem; font-style: italic; color: var(--type); }
+.sector-progress { font-size: .85rem; color: var(--secondary); }
 
-// The light-cycle trail: a lit line down the left, one node per sector.
+// The light-cycle trail: a lit line down the left, one node per level.
 .trail { list-style: none; margin: 1rem 0 2.5rem; padding: 0 0 0 2.2rem; position: relative; }
 .trail::before {
   content: ""; position: absolute; left: .7rem; top: .4rem; bottom: .4rem; width: 2px;
@@ -169,10 +169,10 @@ h1, h2, h3, .hud, .realm-no, .node-tag, .chip, .select-label, .screen-badge, .lo
   .node-tag, .node-q, .node-status { grid-column: 1; grid-row: auto; min-width: 0; }
 }
 
-// ---- sector page --------------------------------------------------------------------------------------------
+// ---- level page --------------------------------------------------------------------------------------------
 
-.sector-title { font-size: clamp(1.6rem, 5vw, 2.4rem); font-weight: 700; @include glow(var(--accent)); }
-.sector-meta { color: var(--secondary); font-size: .85rem; }
+.level-title { font-size: clamp(1.6rem, 5vw, 2.4rem); font-weight: 700; @include glow(var(--accent)); }
+.level-meta { color: var(--secondary); font-size: .85rem; }
 .chip {
   display: inline-block; font-size: .62rem; letter-spacing: .18em; padding: .15rem .55rem; margin-right: .5rem;
   border: 1px solid var(--unlit); color: var(--secondary);
@@ -202,7 +202,7 @@ h1, h2, h3, .hud, .realm-no, .node-tag, .chip, .select-label, .screen-badge, .lo
 
 .callout { border-color: var(--unlit) !important; background: var(--panel) !important; }
 
-.sector-nav {
+.level-nav {
   display: grid; grid-template-columns: 1fr auto 1fr; gap: 1rem; align-items: center;
   margin: 3rem 0 1rem; padding-top: 1rem; border-top: 1px solid var(--unlit); font-size: .85rem;
   a { text-decoration: none; }
@@ -210,5 +210,5 @@ h1, h2, h3, .hud, .realm-no, .node-tag, .chip, .select-label, .screen-badge, .lo
   .next { text-align: right; }
 }
 @media (max-width: 575px) {
-  .sector-nav { grid-template-columns: 1fr; text-align: center; .next { text-align: center; } }
+  .level-nav { grid-template-columns: 1fr; text-align: center; .next { text-align: center; } }
 }

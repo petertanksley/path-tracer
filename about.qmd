@@ -1,6 +1,6 @@
 ---
 title: "How to play"
-description: "What Path Tracer is, how the realms work, and who makes it."
+description: "What Path Tracer is, how the sectors work, and who makes it."
 ---
 
 **Path Tracer** is a library of short explainer videos on the methods behind biosocial science: how evolution shapes
@@ -9,12 +9,12 @@ million predictors, and how marks on DNA keep biological time.
 
 ## The rules of the game
 
-- **Realms** are the big topics. Each one is a landscape of its own.
-- **Sectors** are the episodes, 2–7 minutes each. Every sector answers one question and ends on the next one.
-- **Play a realm in order.** Sectors build on each other, and each one says up front which earlier sectors it assumes.
-- **Legendary** sectors are the advanced material at the end of each realm. They open once the core path is clear.
-- A sector's light tells you where it stands. **Online** sectors are released. **In production** sectors are being
-  built. **Locked** sectors are planned, and the map shows them anyway, so you can see where the game is going.
+- **Sectors** are the big topics. Each one is a landscape of its own.
+- **Levels** are the episodes, 2–7 minutes each. Every level answers one question and ends on the next one.
+- **Play a sector in order.** Levels build on each other, and each one says up front which earlier levels it assumes.
+- **Legendary** levels are the advanced material at the end of each sector. They open once the core path is clear.
+- A level's light tells you where it stands. **Online** levels are released. **In production** levels are being
+  built. **Locked** levels are planned, and the map shows them anyway, so you can see where the game is going.
 
 ## The style
 

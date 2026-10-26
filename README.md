@@ -1,9 +1,9 @@
 # Path Tracer
 
 Source for the Path Tracer website: explainer videos on the methods of biosocial science, presented as a game of
-realms (topics) and sectors (episodes). Videos are hosted on YouTube and embedded here.
+sectors (topics) and levels (episodes). Videos are hosted on YouTube and embedded here.
 
-Most pages are **generated**. `index.qmd`, `realms/` and `sectors/` are written by `tools/publish.R` in the (separate,
+Most pages are **generated**. `index.qmd`, `sectors/` and `levels/` are written by `tools/publish.R` in the (separate,
 non-git) production folder from its `episodes.yml` registry. Edit the registry, not the pages. Hand-written:
 `_quarto.yml`, `about.qmd`, `theme/`, `assets/favicon.svg`.
 

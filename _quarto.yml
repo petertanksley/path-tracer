@@ -15,19 +15,19 @@ website:
     logo: assets/favicon.svg
     title: "PATH TRACER"
     left:
-      - text: "Realms"
+      - text: "Sectors"
         menu:
-          # Realm order and names come from episodes.yml; update here if a realm is added or renamed.
+          # Sector order and names come from episodes.yml; update here if a sector is added or renamed.
           - text: "01 · The Tangled Bank"
-            href: realms/evolution.qmd
+            href: sectors/evolution.qmd
           - text: "02 · The Mirrorlands"
-            href: realms/twins.qmd
+            href: sectors/twins.qmd
           - text: "03 · The Twisted Ladder"
-            href: realms/genomes.qmd
+            href: sectors/genomes.qmd
           - text: "04 · The Sparse Wastes"
-            href: realms/shrinkage.qmd
+            href: sectors/shrinkage.qmd
           - text: "05 · The Clockwork Citadel"
-            href: realms/methylation.qmd
+            href: sectors/methylation.qmd
       - text: "How to play"
         href: about.qmd
     right:
