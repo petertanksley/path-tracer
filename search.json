@@ -1,292 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Path Tracer",
-    "section": "",
-    "text": "A GAME OF VARIANCE, DESCENT AND LIGHT\nPATH TRACER\nShort, visual explainers for the methods of biosocial science. Every symbol gets a picture\nbefore it gets notation. Pick a sector; clear its levels; the Legendary tier opens at the end.\n\nSELECT SECTOR\n\nSECTOR 01The Tangled BankEVOLUTIONWhy would natural selection build bodies, minds and lifespans the way it has?0 of 15 levels online · 0 in production\nSECTOR 02The MirrorlandsTWINSPeople differ. How much of that difference traces to their genes, and how can twins tell us?0 of 24 levels online · 2 in production\nSECTOR 03The Twisted LadderGENOMESTwins say about half the variance is genetic. Where, in the DNA, is it?0 of 17 levels online · 0 in production\nSECTOR 04The Sparse WastesSHRINKAGEHow do you fit a model with more predictors than people?0 of 7 levels online · 0 in production\nSECTOR 05The Clockwork CitadelMETHYLATIONWhat do chemical marks on DNA tell us about experience and ageing?0 of 12 levels online · 0 in production"
-  },
-  {
-    "objectID": "levels/evolution-04.html",
-    "href": "levels/evolution-04.html",
-    "title": "Kin selection",
-    "section": "",
-    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 04\nKin selection\nWhen does helping a relative pay, and where does Hamilton's r come from?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 03 · The gene's-eye view\nSECTOR MAP\n→ LEVEL 05 · Reciprocal altruism"
-  },
-  {
-    "objectID": "levels/evolution-05.html",
-    "href": "levels/evolution-05.html",
-    "title": "Reciprocal altruism",
-    "section": "",
-    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 05\nReciprocal altruism\nHow can cooperation among non-relatives survive cheaters?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 04 · Kin selection\nSECTOR MAP\n→ LEVEL 06 · Sexual selection"
-  },
-  {
-    "objectID": "levels/genomes-11.html",
-    "href": "levels/genomes-11.html",
-    "title": "Genetic correlation",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 11\nGenetic correlation\nDo two traits share genetic influences, measured in DNA?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 10 · LD score regression\nSECTOR MAP\n→ LEVEL 12 · Polygenic scores"
-  },
-  {
-    "objectID": "levels/evolution-06.html",
-    "href": "levels/evolution-06.html",
-    "title": "Sexual selection",
-    "section": "",
-    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 06\nSexual selection\nHow do mate choice and parental investment shape risk-taking?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 05 · Reciprocal altruism\nSECTOR MAP\n→ LEVEL 07 · Drift"
-  },
-  {
-    "objectID": "levels/twins-10.html",
-    "href": "levels/twins-10.html",
-    "title": "Fitting the model",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 10\nFitting the model\nWhat do real studies do beyond Falconer?\nLOCKED 5-7 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 09 · The ACE path diagram\nSECTOR MAP\n→ LEVEL 11 · Reading the estimates"
-  },
-  {
-    "objectID": "levels/shrinkage-03.html",
-    "href": "levels/shrinkage-03.html",
-    "title": "Lasso regression",
-    "section": "",
-    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL 03\nLasso regression\nHow can a penalty set coefficients exactly to zero?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 02 · Ridge regression\nSECTOR MAP\n→ LEVEL 04 · Elastic net"
-  },
-  {
-    "objectID": "levels/evolution-L02.html",
-    "href": "levels/evolution-L02.html",
-    "title": "Fisher’s fundamental theorem",
-    "section": "",
-    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL L02 · LEGENDARY\nFisher's fundamental theorem\nWhy does the speed of adaptation equal genetic variance in fitness?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L01 · The Price equation\nSECTOR MAP"
-  },
-  {
-    "objectID": "levels/genomes-03.html",
-    "href": "levels/genomes-03.html",
-    "title": "Linkage disequilibrium",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 03\nLinkage disequilibrium\nWhy do neighbouring variants travel together?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 02 · DNA as data\nSECTOR MAP\n→ LEVEL 04 · A million regressions"
-  },
-  {
-    "objectID": "levels/twins-03.html",
-    "href": "levels/twins-03.html",
-    "title": "Standard units",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 03\nStandard units\nWhy rescale so the total is 1?\nLOCKED 3-4 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 02 · Correlation\nSECTOR MAP\n→ LEVEL 04 · Genes add up"
-  },
-  {
-    "objectID": "levels/genomes-L01.html",
-    "href": "levels/genomes-L01.html",
-    "title": "Within-family designs",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL L01 · LEGENDARY\nWithin-family designs\nHow do siblings separate direct genetic effects from family?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 13 · How good is a polygenic score?\nSECTOR MAP\n→ LEVEL L02 · Genomic SEM"
-  },
-  {
-    "objectID": "levels/twins-14.html",
-    "href": "levels/twins-14.html",
-    "title": "When r_DZ looks too low",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 14\nWhen r_DZ looks too low\nIs it dominance, or are twins shaping each other?\nLOCKED 6-7 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 13 · Assortative mating\nSECTOR MAP\n→ LEVEL 15 · Gene × environment interaction"
-  },
-  {
-    "objectID": "levels/twins-05.html",
-    "href": "levels/twins-05.html",
-    "title": "What twins share",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 05\nWhat twins share\nWhy 100% for MZ and ½ for DZ?\nLOCKED 5-6 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 04 · Genes add up\nSECTOR MAP\n→ LEVEL 06 · Shared and unique environment"
-  },
-  {
-    "objectID": "levels/genomes-12.html",
-    "href": "levels/genomes-12.html",
-    "title": "Polygenic scores",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 12\nPolygenic scores\nHow do you add up a million tiny effects for one person?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 11 · Genetic correlation\nSECTOR MAP\n→ LEVEL 13 · How good is a polygenic score?"
-  },
-  {
-    "objectID": "levels/methylation-02.html",
-    "href": "levels/methylation-02.html",
-    "title": "What the array measures",
-    "section": "",
-    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 02\nWhat the array measures\nHow do 850,000 numbers come out of a blood sample?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 01 · Marks on the DNA\nSECTOR MAP\n→ LEVEL 03 · Beta values and M-values"
-  },
-  {
-    "objectID": "levels/genomes-01.html",
-    "href": "levels/genomes-01.html",
-    "title": "Where are the genes?",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 01\nWhere are the genes?\nTwins say h² is about .5. Why is finding the genes so hard?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n\nSECTOR MAP\n→ LEVEL 02 · DNA as data"
-  },
-  {
-    "objectID": "levels/genomes-02.html",
-    "href": "levels/genomes-02.html",
-    "title": "DNA as data",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 02\nDNA as data\nHow does a genome become a column of 0s, 1s and 2s?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 01 · Where are the genes?\nSECTOR MAP\n→ LEVEL 03 · Linkage disequilibrium"
-  },
-  {
-    "objectID": "levels/twins-08.html",
-    "href": "levels/twins-08.html",
-    "title": "Falconer’s formula",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 08\nFalconer's formula\nHow do two correlations give us heritability?\nIN PRODUCTION 4-5 min\n\nLEVEL IN PRODUCTIONBeing built.\n\n← LEVEL 07 · What heritability means\nSECTOR MAP\n→ LEVEL 09 · The ACE path diagram"
-  },
-  {
-    "objectID": "levels/twins-06.html",
-    "href": "levels/twins-06.html",
-    "title": "Shared and unique environment",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 06\nShared and unique environment\nWhat counts as C, and what as E?\nLOCKED 4-5 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 05 · What twins share\nSECTOR MAP\n→ LEVEL 07 · What heritability means"
-  },
-  {
-    "objectID": "levels/genomes-09.html",
-    "href": "levels/genomes-09.html",
-    "title": "Missing heritability",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 09\nMissing heritability\nWhy is SNP-h² smaller than twin h²?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 08 · SNP heritability\nSECTOR MAP\n→ LEVEL 10 · LD score regression"
-  },
-  {
-    "objectID": "levels/evolution-L01.html",
-    "href": "levels/evolution-L01.html",
-    "title": "The Price equation",
-    "section": "",
-    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL L01 · LEGENDARY\nThe Price equation\nCan all of selection be written as one covariance?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 13 · Disposable soma\nSECTOR MAP\n→ LEVEL L02 · Fisher's fundamental theorem"
-  },
-  {
-    "objectID": "levels/methylation-L02.html",
-    "href": "levels/methylation-L02.html",
-    "title": "Epigenetic inheritance",
-    "section": "",
-    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL L02 · LEGENDARY\nEpigenetic inheritance\nWhat passes between generations, and what doesn't?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L01 · meQTLs\nSECTOR MAP"
-  },
-  {
-    "objectID": "levels/methylation-01.html",
-    "href": "levels/methylation-01.html",
-    "title": "Marks on the DNA",
-    "section": "",
-    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 01\nMarks on the DNA\nWhat is a methylated CpG site?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n\nSECTOR MAP\n→ LEVEL 02 · What the array measures"
-  },
-  {
-    "objectID": "levels/genomes-08.html",
-    "href": "levels/genomes-08.html",
-    "title": "SNP heritability",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 08\nSNP heritability\nHow much variance do measured SNPs explain together (GCTA-GREML)?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 07 · Population stratification\nSECTOR MAP\n→ LEVEL 09 · Missing heritability"
-  },
-  {
-    "objectID": "levels/twins-04.html",
-    "href": "levels/twins-04.html",
-    "title": "Genes add up",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 04\nGenes add up\nHow do many small genetic effects make a smooth trait?\nLOCKED 4-5 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 03 · Standard units\nSECTOR MAP\n→ LEVEL 05 · What twins share"
-  },
-  {
-    "objectID": "levels/methylation-05.html",
-    "href": "levels/methylation-05.html",
-    "title": "Batch effects",
-    "section": "",
-    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 05\nBatch effects\nHow can the day a plate was run look like biology?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 04 · Cell-type composition\nSECTOR MAP\n→ LEVEL 06 · EWAS"
-  },
-  {
-    "objectID": "levels/twins-L05.html",
-    "href": "levels/twins-L05.html",
-    "title": "Twins across time",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL L05 · LEGENDARY\nTwins across time\nAre the genes behind a trait at 10 the same ones at 20?\nLOCKED 7-9 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L04 · Moderated twin models\nSECTOR MAP\n→ LEVEL L06 · Sex limitation"
-  },
-  {
-    "objectID": "levels/genomes-10.html",
-    "href": "levels/genomes-10.html",
-    "title": "LD score regression",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 10\nLD score regression\nHow do summary statistics alone give heritability and confounding?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 09 · Missing heritability\nSECTOR MAP\n→ LEVEL 11 · Genetic correlation"
-  },
-  {
-    "objectID": "levels/shrinkage-01.html",
-    "href": "levels/shrinkage-01.html",
-    "title": "Too many predictors",
-    "section": "",
-    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL 01\nToo many predictors\nWhy does ordinary regression break when predictors outnumber people?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n\nSECTOR MAP\n→ LEVEL 02 · Ridge regression"
-  },
-  {
-    "objectID": "levels/twins-13.html",
-    "href": "levels/twins-13.html",
-    "title": "Assortative mating",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 13\nAssortative mating\nWhat if parents pair up on the trait?\nLOCKED 5-6 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 12 · Equal environments\nSECTOR MAP\n→ LEVEL 14 · When r_DZ looks too low"
-  },
-  {
-    "objectID": "levels/shrinkage-02.html",
-    "href": "levels/shrinkage-02.html",
-    "title": "Ridge regression",
-    "section": "",
-    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL 02\nRidge regression\nWhat does shrinking every coefficient a little buy us?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 01 · Too many predictors\nSECTOR MAP\n→ LEVEL 03 · Lasso regression"
-  },
-  {
-    "objectID": "levels/twins-L03.html",
-    "href": "levels/twins-L03.html",
-    "title": "Common and independent pathways",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL L03 · LEGENDARY\nCommon and independent pathways\nIs there one latent factor behind several traits, or several routes?\nLOCKED 7-9 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L02 · Two traits at once\nSECTOR MAP\n→ LEVEL L04 · Moderated twin models"
-  },
-  {
-    "objectID": "levels/twins-11.html",
-    "href": "levels/twins-11.html",
-    "title": "Reading the estimates",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 11\nReading the estimates\nWhat can we say, and not say, from a twin study?\nLOCKED 4-5 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 10 · Fitting the model\nSECTOR MAP\n→ LEVEL 12 · Equal environments"
-  },
-  {
-    "objectID": "levels/twins-L01.html",
-    "href": "levels/twins-L01.html",
-    "title": "Co-twin control",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL L01 · LEGENDARY\nCo-twin control\nIf one twin gets more of the exposure, what happens to them?\nLOCKED 6-8 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 18 · Beyond twins\nSECTOR MAP\n→ LEVEL L02 · Two traits at once"
-  },
-  {
-    "objectID": "levels/evolution-08.html",
-    "href": "levels/evolution-08.html",
-    "title": "Mismatch",
-    "section": "",
-    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 08\nMismatch\nWhat happens when an adapted mind lands in a world it wasn't built for?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 07 · Drift\nSECTOR MAP\n→ LEVEL 09 · Life history"
-  },
-  {
-    "objectID": "levels/twins-16.html",
-    "href": "levels/twins-16.html",
-    "title": "Gene–environment correlation",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 16\nGene–environment correlation\nWhat if genes shape the environments people get?\nLOCKED 5-7 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 15 · Gene × environment interaction\nSECTOR MAP\n→ LEVEL 17 · Are twins like everyone else?"
-  },
-  {
-    "objectID": "levels/genomes-04.html",
-    "href": "levels/genomes-04.html",
-    "title": "A million regressions",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 04\nA million regressions\nWhat is a GWAS actually doing?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 03 · Linkage disequilibrium\nSECTOR MAP\n→ LEVEL 05 · Multiple testing"
-  },
-  {
-    "objectID": "levels/twins-L06.html",
-    "href": "levels/twins-L06.html",
-    "title": "Sex limitation",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL L06 · LEGENDARY\nSex limitation\nDo the same genes matter for men and women?\nLOCKED 6-8 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L05 · Twins across time\nSECTOR MAP"
-  },
-  {
-    "objectID": "sectors/twins.html",
-    "href": "sectors/twins.html",
-    "title": "The Mirrorlands",
-    "section": "",
-    "text": "SECTOR 02 // TWINS\nThe Mirrorlands\nPeople differ. How much of that difference traces to their genes, and how can twins tell us?\n0 of 24 levels online · 2 in production · 18 core, 6 legendary\n\n\n\nZONE 1 // MEASURING DIFFERENCE\nLEVEL 01VarianceHow do we put a number on \"people differ\"?LOCKED\nLEVEL 02CorrelationHow alike are two people's scores?LOCKED\nLEVEL 03Standard unitsWhy rescale so the total is 1?LOCKED\nZONE 2 // WHERE DIFFERENCE COMES FROM\nLEVEL 04Genes add upHow do many small genetic effects make a smooth trait?LOCKED\nLEVEL 05What twins shareWhy 100% for MZ and ½ for DZ?LOCKED\nLEVEL 06Shared and unique environmentWhat counts as C, and what as E?LOCKED\nLEVEL 07What heritability meansWhat does h² = .60 tell us?LOCKED\nZONE 3 // THE TWIN METHOD\nLEVEL 08Falconer's formulaHow do two correlations give us heritability?IN PRODUCTION\nLEVEL 09The ACE path diagramWhere do the twin equations come from?IN PRODUCTION\nLEVEL 10Fitting the modelWhat do real studies do beyond Falconer?LOCKED\nLEVEL 11Reading the estimatesWhat can we say, and not say, from a twin study?LOCKED\nZONE 4 // WHEN ASSUMPTIONS BEND\nLEVEL 12Equal environmentsWhat if MZ twins share more environment than DZ twins?LOCKED\nLEVEL 13Assortative matingWhat if parents pair up on the trait?LOCKED\nLEVEL 14When r_DZ looks too lowIs it dominance, or are twins shaping each other?LOCKED\nLEVEL 15Gene × environment interactionWhat if genes matter more in some environments?LOCKED\nLEVEL 16Gene–environment correlationWhat if genes shape the environments people get?LOCKED\nLEVEL 17Are twins like everyone else?How far do twin results generalise?LOCKED\nZONE 5 // BEYOND TWINS\nLEVEL 18Beyond twinsWhat do adoption, extended-family and DNA-based designs add?LOCKED\n\nLEGENDARY\nAdvanced levels. They open once the core path is clear.\n\nLEVEL L01Co-twin controlIf one twin gets more of the exposure, what happens to them?LOCKED\nLEVEL L02Two traits at onceDo the same genes influence two different traits, and how does the Cholesky split them?LOCKED\nLEVEL L03Common and independent pathwaysIs there one latent factor behind several traits, or several routes?LOCKED\nLEVEL L04Moderated twin modelsHow do a, c and e change across a measured environment?LOCKED\nLEVEL L05Twins across timeAre the genes behind a trait at 10 the same ones at 20?LOCKED\nLEVEL L06Sex limitationDo the same genes matter for men and women?LOCKED"
-  },
-  {
-    "objectID": "sectors/methylation.html",
-    "href": "sectors/methylation.html",
-    "title": "The Clockwork Citadel",
-    "section": "",
-    "text": "SECTOR 05 // METHYLATION\nThe Clockwork Citadel\nWhat do chemical marks on DNA tell us about experience and ageing?\n0 of 12 levels online · 0 in production · 10 core, 2 legendary\n\n\n\nLEVEL 01Marks on the DNAWhat is a methylated CpG site?LOCKED\nLEVEL 02What the array measuresHow do 850,000 numbers come out of a blood sample?LOCKED\nLEVEL 03Beta values and M-valuesWhy are methylation data shaped like a U, and what do we do about it?LOCKED\nLEVEL 04Cell-type compositionIs it the methylation, or just a different mix of cells?LOCKED\nLEVEL 05Batch effectsHow can the day a plate was run look like biology?LOCKED\nLEVEL 06EWASWhat is an epigenome-wide association study testing?LOCKED\nLEVEL 07Differentially methylated regionsWhy look at neighbourhoods of sites instead of one at a time?LOCKED\nLEVEL 08Building a clockHow does elastic net turn methylation into an age?LOCKED\nLEVEL 09Generations of clocksWhat changed from Horvath and Hannum to PhenoAge, GrimAge and DunedinPACE?LOCKED\nLEVEL 10Age accelerationWhat does it mean to be biologically older than your age?LOCKED\n\nLEGENDARY\nAdvanced levels. They open once the core path is clear.\n\nLEVEL L01meQTLsHow much of methylation is set by the genome?LOCKED\nLEVEL L02Epigenetic inheritanceWhat passes between generations, and what doesn't?LOCKED"
-  },
-  {
-    "objectID": "sectors/genomes.html",
-    "href": "sectors/genomes.html",
-    "title": "The Twisted Ladder",
-    "section": "",
-    "text": "SECTOR 03 // GENOMES\nThe Twisted Ladder\nTwins say about half the variance is genetic. Where, in the DNA, is it?\n0 of 17 levels online · 0 in production · 13 core, 4 legendary\n\n\n\nLEVEL 01Where are the genes?Twins say h² is about .5. Why is finding the genes so hard?LOCKED\nLEVEL 02DNA as dataHow does a genome become a column of 0s, 1s and 2s?LOCKED\nLEVEL 03Linkage disequilibriumWhy do neighbouring variants travel together?LOCKED\nLEVEL 04A million regressionsWhat is a GWAS actually doing?LOCKED\nLEVEL 05Multiple testingWhy is the bar 5 × 10⁻⁸?LOCKED\nLEVEL 06Reading a Manhattan plotWhat do the skyscrapers and the QQ plot tell us?LOCKED\nLEVEL 07Population stratificationHow can ancestry fake a genetic effect, and how do principal components help?LOCKED\nLEVEL 08SNP heritabilityHow much variance do measured SNPs explain together (GCTA-GREML)?LOCKED\nLEVEL 09Missing heritabilityWhy is SNP-h² smaller than twin h²?LOCKED\nLEVEL 10LD score regressionHow do summary statistics alone give heritability and confounding?LOCKED\nLEVEL 11Genetic correlationDo two traits share genetic influences, measured in DNA?LOCKED\nLEVEL 12Polygenic scoresHow do you add up a million tiny effects for one person?LOCKED\nLEVEL 13How good is a polygenic score?What does incremental R² mean, and why do scores travel badly across ancestries?LOCKED\n\nLEGENDARY\nAdvanced levels. They open once the core path is clear.\n\nLEVEL L01Within-family designsHow do siblings separate direct genetic effects from family?LOCKED\nLEVEL L02Genomic SEMHow do you fit a factor model to genetic correlations?LOCKED\nLEVEL L03Mendelian randomizationCan genes act as a natural experiment for cause and effect?LOCKED\nLEVEL L04Fine-mappingWhich variant in a hit region is the real one?LOCKED"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "How to play",
@@ -329,256 +42,18 @@
     "text": "SECTOR 01 // EVOLUTION\nThe Tangled Bank\nWhy would natural selection build bodies, minds and lifespans the way it has?\n0 of 15 levels online · 0 in production · 13 core, 2 legendary\n\n\n\nLEVEL 01Variation, inheritance, selectionWhat does natural selection need, and what doesn't it need?LOCKED\nLEVEL 02AdaptationWhat makes a trait an adaptation, and what world was it adapted to?LOCKED\nLEVEL 03The gene's-eye viewWhy does selection ultimately favour genes rather than individuals?LOCKED\nLEVEL 04Kin selectionWhen does helping a relative pay, and where does Hamilton's r come from?LOCKED\nLEVEL 05Reciprocal altruismHow can cooperation among non-relatives survive cheaters?LOCKED\nLEVEL 06Sexual selectionHow do mate choice and parental investment shape risk-taking?LOCKED\nLEVEL 07DriftHow does evolution happen by sampling error alone?LOCKED\nLEVEL 08MismatchWhat happens when an adapted mind lands in a world it wasn't built for?LOCKED\nLEVEL 09Life historyWhy is living fast a calibration rather than a deficit?LOCKED\nLEVEL 10The Red QueenWhy must species keep running just to stay in place?LOCKED\nLEVEL 11The selection shadowWhy does selection go quiet in old age?LOCKED\nLEVEL 12Antagonistic pleiotropyCan a gene that helps the young harm the old?LOCKED\nLEVEL 13Disposable somaWhy does the body age while the germline doesn't?LOCKED\n\nLEGENDARY\nAdvanced levels. They open once the core path is clear.\n\nLEVEL L01The Price equationCan all of selection be written as one covariance?LOCKED\nLEVEL L02Fisher's fundamental theoremWhy does the speed of adaptation equal genetic variance in fitness?LOCKED"
   },
   {
-    "objectID": "levels/evolution-01.html",
-    "href": "levels/evolution-01.html",
-    "title": "Variation, inheritance, selection",
+    "objectID": "sectors/twins.html",
+    "href": "sectors/twins.html",
+    "title": "The Mirrorlands",
     "section": "",
-    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 01\nVariation, inheritance, selection\nWhat does natural selection need, and what doesn't it need?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n\nSECTOR MAP\n→ LEVEL 02 · Adaptation"
+    "text": "SECTOR 02 // TWINS\nThe Mirrorlands\nPeople differ. How much of that difference traces to their genes, and how can twins tell us?\n0 of 22 levels online · 2 in production · 16 core, 6 legendary\n\n\n\nZONE 1 // TWIN PAIRS\nLEVEL 01Twin correlationHow alike are twins, and does it matter which kind?LOCKED\nZONE 2 // WHERE DIFFERENCE COMES FROM\nLEVEL 02Genes add upHow do many small genetic effects make a smooth trait?LOCKED\nLEVEL 03What twins shareWhy 100% for MZ and ½ for DZ?LOCKED\nLEVEL 04Shared and unique environmentWhat counts as C, and what as E?LOCKED\nLEVEL 05What heritability meansWhat does h² = .60 tell us?LOCKED\nZONE 3 // THE TWIN METHOD\nLEVEL 06Falconer's formulaHow do two correlations give us heritability?IN PRODUCTION\nLEVEL 07The ACE path diagramWhere do the twin equations come from?IN PRODUCTION\nLEVEL 08Fitting the modelWhat do real studies do beyond Falconer?LOCKED\nLEVEL 09Reading the estimatesWhat can we say, and not say, from a twin study?LOCKED\nZONE 4 // WHEN ASSUMPTIONS BEND\nLEVEL 10Equal environmentsWhat if MZ twins share more environment than DZ twins?LOCKED\nLEVEL 11Assortative matingWhat if parents pair up on the trait?LOCKED\nLEVEL 12When r_DZ looks too lowIs it dominance, or are twins shaping each other?LOCKED\nLEVEL 13Gene × environment interactionWhat if genes matter more in some environments?LOCKED\nLEVEL 14Gene–environment correlationWhat if genes shape the environments people get?LOCKED\nLEVEL 15Are twins like everyone else?How far do twin results generalise?LOCKED\nZONE 5 // BEYOND TWINS\nLEVEL 16Beyond twinsWhat do adoption, extended-family and DNA-based designs add?LOCKED\n\nLEGENDARY\nAdvanced levels. They open once the core path is clear.\n\nLEVEL L01Co-twin controlIf one twin gets more of the exposure, what happens to them?LOCKED\nLEVEL L02Two traits at onceDo the same genes influence two different traits, and how does the Cholesky split them?LOCKED\nLEVEL L03Common and independent pathwaysIs there one latent factor behind several traits, or several routes?LOCKED\nLEVEL L04Moderated twin modelsHow do a, c and e change across a measured environment?LOCKED\nLEVEL L05Twins across timeAre the genes behind a trait at 10 the same ones at 20?LOCKED\nLEVEL L06Sex limitationDo the same genes matter for men and women?LOCKED"
   },
   {
-    "objectID": "levels/evolution-13.html",
-    "href": "levels/evolution-13.html",
-    "title": "Disposable soma",
+    "objectID": "levels/foundations-04.html",
+    "href": "levels/foundations-04.html",
+    "title": "The regression line",
     "section": "",
-    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 13\nDisposable soma\nWhy does the body age while the germline doesn't?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 12 · Antagonistic pleiotropy\nSECTOR MAP\n→ LEVEL L01 · The Price equation"
-  },
-  {
-    "objectID": "levels/genomes-L04.html",
-    "href": "levels/genomes-L04.html",
-    "title": "Fine-mapping",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL L04 · LEGENDARY\nFine-mapping\nWhich variant in a hit region is the real one?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L03 · Mendelian randomization\nSECTOR MAP"
-  },
-  {
-    "objectID": "levels/shrinkage-05.html",
-    "href": "levels/shrinkage-05.html",
-    "title": "Cross-validation",
-    "section": "",
-    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL 05\nCross-validation\nHow do we choose how hard to shrink?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 04 · Elastic net\nSECTOR MAP\n→ LEVEL L01 · The bias–variance trade-off"
-  },
-  {
-    "objectID": "levels/genomes-L03.html",
-    "href": "levels/genomes-L03.html",
-    "title": "Mendelian randomization",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL L03 · LEGENDARY\nMendelian randomization\nCan genes act as a natural experiment for cause and effect?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L02 · Genomic SEM\nSECTOR MAP\n→ LEVEL L04 · Fine-mapping"
-  },
-  {
-    "objectID": "levels/methylation-08.html",
-    "href": "levels/methylation-08.html",
-    "title": "Building a clock",
-    "section": "",
-    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 08\nBuilding a clock\nHow does elastic net turn methylation into an age?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 07 · Differentially methylated regions\nSECTOR MAP\n→ LEVEL 09 · Generations of clocks"
-  },
-  {
-    "objectID": "levels/genomes-05.html",
-    "href": "levels/genomes-05.html",
-    "title": "Multiple testing",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 05\nMultiple testing\nWhy is the bar 5 × 10⁻⁸?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 04 · A million regressions\nSECTOR MAP\n→ LEVEL 06 · Reading a Manhattan plot"
-  },
-  {
-    "objectID": "levels/twins-01.html",
-    "href": "levels/twins-01.html",
-    "title": "Variance",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 01\nVariance\nHow do we put a number on \"people differ\"?\nLOCKED 4-5 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n\nSECTOR MAP\n→ LEVEL 02 · Correlation"
-  },
-  {
-    "objectID": "levels/twins-L02.html",
-    "href": "levels/twins-L02.html",
-    "title": "Two traits at once",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL L02 · LEGENDARY\nTwo traits at once\nDo the same genes influence two different traits, and how does the Cholesky split them?\nLOCKED 7-9 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L01 · Co-twin control\nSECTOR MAP\n→ LEVEL L03 · Common and independent pathways"
-  },
-  {
-    "objectID": "levels/genomes-07.html",
-    "href": "levels/genomes-07.html",
-    "title": "Population stratification",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 07\nPopulation stratification\nHow can ancestry fake a genetic effect, and how do principal components help?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 06 · Reading a Manhattan plot\nSECTOR MAP\n→ LEVEL 08 · SNP heritability"
-  },
-  {
-    "objectID": "levels/evolution-10.html",
-    "href": "levels/evolution-10.html",
-    "title": "The Red Queen",
-    "section": "",
-    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 10\nThe Red Queen\nWhy must species keep running just to stay in place?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 09 · Life history\nSECTOR MAP\n→ LEVEL 11 · The selection shadow"
-  },
-  {
-    "objectID": "levels/evolution-12.html",
-    "href": "levels/evolution-12.html",
-    "title": "Antagonistic pleiotropy",
-    "section": "",
-    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 12\nAntagonistic pleiotropy\nCan a gene that helps the young harm the old?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 11 · The selection shadow\nSECTOR MAP\n→ LEVEL 13 · Disposable soma"
-  },
-  {
-    "objectID": "levels/twins-12.html",
-    "href": "levels/twins-12.html",
-    "title": "Equal environments",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 12\nEqual environments\nWhat if MZ twins share more environment than DZ twins?\nLOCKED 5-6 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 11 · Reading the estimates\nSECTOR MAP\n→ LEVEL 13 · Assortative mating"
-  },
-  {
-    "objectID": "levels/twins-L04.html",
-    "href": "levels/twins-L04.html",
-    "title": "Moderated twin models",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL L04 · LEGENDARY\nModerated twin models\nHow do a, c and e change across a measured environment?\nLOCKED 7-9 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L03 · Common and independent pathways\nSECTOR MAP\n→ LEVEL L05 · Twins across time"
-  },
-  {
-    "objectID": "levels/shrinkage-L01.html",
-    "href": "levels/shrinkage-L01.html",
-    "title": "The bias–variance trade-off",
-    "section": "",
-    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL L01 · LEGENDARY\nThe bias–variance trade-off\nWhy does a deliberately biased model predict better?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 05 · Cross-validation\nSECTOR MAP\n→ LEVEL L02 · Penalties as priors"
-  },
-  {
-    "objectID": "levels/genomes-06.html",
-    "href": "levels/genomes-06.html",
-    "title": "Reading a Manhattan plot",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 06\nReading a Manhattan plot\nWhat do the skyscrapers and the QQ plot tell us?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 05 · Multiple testing\nSECTOR MAP\n→ LEVEL 07 · Population stratification"
-  },
-  {
-    "objectID": "levels/twins-18.html",
-    "href": "levels/twins-18.html",
-    "title": "Beyond twins",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 18\nBeyond twins\nWhat do adoption, extended-family and DNA-based designs add?\nLOCKED 5-7 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 17 · Are twins like everyone else?\nSECTOR MAP\n→ LEVEL L01 · Co-twin control"
-  },
-  {
-    "objectID": "levels/evolution-11.html",
-    "href": "levels/evolution-11.html",
-    "title": "The selection shadow",
-    "section": "",
-    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 11\nThe selection shadow\nWhy does selection go quiet in old age?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 10 · The Red Queen\nSECTOR MAP\n→ LEVEL 12 · Antagonistic pleiotropy"
-  },
-  {
-    "objectID": "levels/genomes-13.html",
-    "href": "levels/genomes-13.html",
-    "title": "How good is a polygenic score?",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 13\nHow good is a polygenic score?\nWhat does incremental R² mean, and why do scores travel badly across ancestries?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 12 · Polygenic scores\nSECTOR MAP\n→ LEVEL L01 · Within-family designs"
-  },
-  {
-    "objectID": "levels/twins-09.html",
-    "href": "levels/twins-09.html",
-    "title": "The ACE path diagram",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 09\nThe ACE path diagram\nWhere do the twin equations come from?\nIN PRODUCTION 6-7 min\n\nIN PRODUCTION\n\n\n\n\n\n\nNoteThe maths, slowly\n\n\n\n\n\nDraft — last updated October 23, 2026.\nPut every variable on a standard scale, so each has variance 1. A twin’s score P is built from three latent sources, each with variance 1: additive genes A, shared environment C and unique environment E. The paths from them to P are a, c and e.\nWright’s tracing rules. The covariance between two variables is the sum, over every allowed chain between them, of the product of the path values along the chain. A chain may go backwards along arrows and then forwards, never forwards then backwards. It passes through at most one double-headed arrow, and it visits no variable twice.\nOne twin. A variable’s variance is its covariance with itself: the chains that leave P and come back.\n\\operatorname{Var}(P) = a^2 + c^2 + e^2 = 1\nIdentical (MZ) pairs. Twin 1’s A correlates 1 with twin 2’s A, and the C’s correlate 1. The E’s are not linked.\nr_{MZ} = a^2 + c^2\nFraternal (DZ) pairs. The A’s correlate ½, because DZ twins share half their segregating genes on average. The C’s still correlate 1.\nr_{DZ} = \\tfrac{1}{2}a^2 + c^2\nSubtract. The shared environment cancels:\nr_{MZ} - r_{DZ} = \\tfrac{1}{2}a^2 \\quad\\Rightarrow\\quad h^2 = a^2 = 2\\,(r_{MZ} - r_{DZ})\nWith the running example (r_MZ = .70, r_DZ = .40): a² = .60, c² = .70 − .60 = .10, e² = 1 − .70 = .30.\n\n\n\n\n← LEVEL 08 · Falconer's formula\nSECTOR MAP\n→ LEVEL 10 · Fitting the model"
-  },
-  {
-    "objectID": "levels/twins-15.html",
-    "href": "levels/twins-15.html",
-    "title": "Gene × environment interaction",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 15\nGene × environment interaction\nWhat if genes matter more in some environments?\nLOCKED 5-7 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 14 · When r_DZ looks too low\nSECTOR MAP\n→ LEVEL 16 · Gene–environment correlation"
-  },
-  {
-    "objectID": "levels/twins-02.html",
-    "href": "levels/twins-02.html",
-    "title": "Correlation",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 02\nCorrelation\nHow alike are two people's scores?\nLOCKED 5-6 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 01 · Variance\nSECTOR MAP\n→ LEVEL 03 · Standard units"
-  },
-  {
-    "objectID": "levels/methylation-07.html",
-    "href": "levels/methylation-07.html",
-    "title": "Differentially methylated regions",
-    "section": "",
-    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 07\nDifferentially methylated regions\nWhy look at neighbourhoods of sites instead of one at a time?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 06 · EWAS\nSECTOR MAP\n→ LEVEL 08 · Building a clock"
-  },
-  {
-    "objectID": "levels/methylation-10.html",
-    "href": "levels/methylation-10.html",
-    "title": "Age acceleration",
-    "section": "",
-    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 10\nAge acceleration\nWhat does it mean to be biologically older than your age?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 09 · Generations of clocks\nSECTOR MAP\n→ LEVEL L01 · meQTLs"
-  },
-  {
-    "objectID": "levels/methylation-06.html",
-    "href": "levels/methylation-06.html",
-    "title": "EWAS",
-    "section": "",
-    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 06\nEWAS\nWhat is an epigenome-wide association study testing?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 05 · Batch effects\nSECTOR MAP\n→ LEVEL 07 · Differentially methylated regions"
-  },
-  {
-    "objectID": "levels/genomes-L02.html",
-    "href": "levels/genomes-L02.html",
-    "title": "Genomic SEM",
-    "section": "",
-    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL L02 · LEGENDARY\nGenomic SEM\nHow do you fit a factor model to genetic correlations?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L01 · Within-family designs\nSECTOR MAP\n→ LEVEL L03 · Mendelian randomization"
-  },
-  {
-    "objectID": "levels/methylation-09.html",
-    "href": "levels/methylation-09.html",
-    "title": "Generations of clocks",
-    "section": "",
-    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 09\nGenerations of clocks\nWhat changed from Horvath and Hannum to PhenoAge, GrimAge and DunedinPACE?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 08 · Building a clock\nSECTOR MAP\n→ LEVEL 10 · Age acceleration"
-  },
-  {
-    "objectID": "levels/methylation-L01.html",
-    "href": "levels/methylation-L01.html",
-    "title": "meQTLs",
-    "section": "",
-    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL L01 · LEGENDARY\nmeQTLs\nHow much of methylation is set by the genome?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 10 · Age acceleration\nSECTOR MAP\n→ LEVEL L02 · Epigenetic inheritance"
-  },
-  {
-    "objectID": "levels/evolution-09.html",
-    "href": "levels/evolution-09.html",
-    "title": "Life history",
-    "section": "",
-    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 09\nLife history\nWhy is living fast a calibration rather than a deficit?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 08 · Mismatch\nSECTOR MAP\n→ LEVEL 10 · The Red Queen"
-  },
-  {
-    "objectID": "levels/evolution-07.html",
-    "href": "levels/evolution-07.html",
-    "title": "Drift",
-    "section": "",
-    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 07\nDrift\nHow does evolution happen by sampling error alone?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 06 · Sexual selection\nSECTOR MAP\n→ LEVEL 08 · Mismatch"
-  },
-  {
-    "objectID": "levels/evolution-02.html",
-    "href": "levels/evolution-02.html",
-    "title": "Adaptation",
-    "section": "",
-    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 02\nAdaptation\nWhat makes a trait an adaptation, and what world was it adapted to?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 01 · Variation, inheritance, selection\nSECTOR MAP\n→ LEVEL 03 · The gene's-eye view"
-  },
-  {
-    "objectID": "levels/twins-07.html",
-    "href": "levels/twins-07.html",
-    "title": "What heritability means",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 07\nWhat heritability means\nWhat does h² = .60 tell us?\nLOCKED 5-7 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 06 · Shared and unique environment\nSECTOR MAP\n→ LEVEL 08 · Falconer's formula"
-  },
-  {
-    "objectID": "levels/evolution-03.html",
-    "href": "levels/evolution-03.html",
-    "title": "The gene’s-eye view",
-    "section": "",
-    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 03\nThe gene's-eye view\nWhy does selection ultimately favour genes rather than individuals?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 02 · Adaptation\nSECTOR MAP\n→ LEVEL 04 · Kin selection"
-  },
-  {
-    "objectID": "levels/shrinkage-04.html",
-    "href": "levels/shrinkage-04.html",
-    "title": "Elastic net",
-    "section": "",
-    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL 04\nElastic net\nWhat happens when you blend ridge and lasso?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 03 · Lasso regression\nSECTOR MAP\n→ LEVEL 05 · Cross-validation"
-  },
-  {
-    "objectID": "levels/twins-17.html",
-    "href": "levels/twins-17.html",
-    "title": "Are twins like everyone else?",
-    "section": "",
-    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 17\nAre twins like everyone else?\nHow far do twin results generalise?\nLOCKED 3-4 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 16 · Gene–environment correlation\nSECTOR MAP\n→ LEVEL 18 · Beyond twins"
-  },
-  {
-    "objectID": "levels/methylation-03.html",
-    "href": "levels/methylation-03.html",
-    "title": "Beta values and M-values",
-    "section": "",
-    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 03\nBeta values and M-values\nWhy are methylation data shaped like a U, and what do we do about it?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 02 · What the array measures\nSECTOR MAP\n→ LEVEL 04 · Cell-type composition"
+    "text": "SECTOR 00 // THE BOOT SECTOR · LEVEL 04\nThe regression line\nWhat is the best straight line through a cloud of points?\nLOCKED 5-6 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 03 · Standard units\nSECTOR MAP\n→ LEVEL 05 · Variance explained"
   },
   {
     "objectID": "levels/shrinkage-L02.html",
@@ -588,10 +63,577 @@
     "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL L02 · LEGENDARY\nPenalties as priors\nWhy are ridge and lasso secretly Bayesian?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L01 · The bias–variance trade-off\nSECTOR MAP"
   },
   {
+    "objectID": "levels/genomes-03.html",
+    "href": "levels/genomes-03.html",
+    "title": "Linkage disequilibrium",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 03\nLinkage disequilibrium\nWhy do neighbouring variants travel together?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 02 · DNA as data\nSECTOR MAP\n→ LEVEL 04 · A million regressions"
+  },
+  {
+    "objectID": "levels/methylation-09.html",
+    "href": "levels/methylation-09.html",
+    "title": "Generations of clocks",
+    "section": "",
+    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 09\nGenerations of clocks\nWhat changed from Horvath and Hannum to PhenoAge, GrimAge and DunedinPACE?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 08 · Building a clock\nSECTOR MAP\n→ LEVEL 10 · Age acceleration"
+  },
+  {
+    "objectID": "levels/evolution-03.html",
+    "href": "levels/evolution-03.html",
+    "title": "The gene’s-eye view",
+    "section": "",
+    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 03\nThe gene's-eye view\nWhy does selection ultimately favour genes rather than individuals?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 02 · Adaptation\nSECTOR MAP\n→ LEVEL 04 · Kin selection"
+  },
+  {
+    "objectID": "levels/foundations-03.html",
+    "href": "levels/foundations-03.html",
+    "title": "Standard units",
+    "section": "",
+    "text": "SECTOR 00 // THE BOOT SECTOR · LEVEL 03\nStandard units\nWhy rescale so the total is 1?\nLOCKED 3-4 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 02 · Covariance and correlation\nSECTOR MAP\n→ LEVEL 04 · The regression line"
+  },
+  {
+    "objectID": "levels/methylation-06.html",
+    "href": "levels/methylation-06.html",
+    "title": "EWAS",
+    "section": "",
+    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 06\nEWAS\nWhat is an epigenome-wide association study testing?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 05 · Batch effects\nSECTOR MAP\n→ LEVEL 07 · Differentially methylated regions"
+  },
+  {
+    "objectID": "levels/twins-05.html",
+    "href": "levels/twins-05.html",
+    "title": "What heritability means",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 05\nWhat heritability means\nWhat does h² = .60 tell us?\nLOCKED 5-7 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 04 · Shared and unique environment\nSECTOR MAP\n→ LEVEL 06 · Falconer's formula"
+  },
+  {
+    "objectID": "levels/evolution-07.html",
+    "href": "levels/evolution-07.html",
+    "title": "Drift",
+    "section": "",
+    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 07\nDrift\nHow does evolution happen by sampling error alone?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 06 · Sexual selection\nSECTOR MAP\n→ LEVEL 08 · Mismatch"
+  },
+  {
+    "objectID": "levels/methylation-05.html",
+    "href": "levels/methylation-05.html",
+    "title": "Batch effects",
+    "section": "",
+    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 05\nBatch effects\nHow can the day a plate was run look like biology?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 04 · Cell-type composition\nSECTOR MAP\n→ LEVEL 06 · EWAS"
+  },
+  {
+    "objectID": "levels/evolution-08.html",
+    "href": "levels/evolution-08.html",
+    "title": "Mismatch",
+    "section": "",
+    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 08\nMismatch\nWhat happens when an adapted mind lands in a world it wasn't built for?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 07 · Drift\nSECTOR MAP\n→ LEVEL 09 · Life history"
+  },
+  {
+    "objectID": "levels/foundations-02.html",
+    "href": "levels/foundations-02.html",
+    "title": "Covariance and correlation",
+    "section": "",
+    "text": "SECTOR 00 // THE BOOT SECTOR · LEVEL 02\nCovariance and correlation\nDo two scores move together, and how strongly?\nLOCKED 5-6 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 01 · Variance\nSECTOR MAP\n→ LEVEL 03 · Standard units"
+  },
+  {
+    "objectID": "levels/twins-16.html",
+    "href": "levels/twins-16.html",
+    "title": "Beyond twins",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 16\nBeyond twins\nWhat do adoption, extended-family and DNA-based designs add?\nLOCKED 5-7 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 15 · Are twins like everyone else?\nSECTOR MAP\n→ LEVEL L01 · Co-twin control"
+  },
+  {
+    "objectID": "levels/twins-11.html",
+    "href": "levels/twins-11.html",
+    "title": "Assortative mating",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 11\nAssortative mating\nWhat if parents pair up on the trait?\nLOCKED 5-6 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 10 · Equal environments\nSECTOR MAP\n→ LEVEL 12 · When r_DZ looks too low"
+  },
+  {
+    "objectID": "levels/twins-L06.html",
+    "href": "levels/twins-L06.html",
+    "title": "Sex limitation",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL L06 · LEGENDARY\nSex limitation\nDo the same genes matter for men and women?\nLOCKED 6-8 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L05 · Twins across time\nSECTOR MAP"
+  },
+  {
+    "objectID": "levels/genomes-02.html",
+    "href": "levels/genomes-02.html",
+    "title": "DNA as data",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 02\nDNA as data\nHow does a genome become a column of 0s, 1s and 2s?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 01 · Where are the genes?\nSECTOR MAP\n→ LEVEL 03 · Linkage disequilibrium"
+  },
+  {
+    "objectID": "levels/methylation-11.html",
+    "href": "levels/methylation-11.html",
+    "title": "Residual or covariate?",
+    "section": "",
+    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 11\nResidual or covariate?\nShould we regress age out of the clock, or put age in the model?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 10 · Age acceleration\nSECTOR MAP\n→ LEVEL L01 · meQTLs"
+  },
+  {
+    "objectID": "levels/genomes-06.html",
+    "href": "levels/genomes-06.html",
+    "title": "Reading a Manhattan plot",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 06\nReading a Manhattan plot\nWhat do the skyscrapers and the QQ plot tell us?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 05 · Multiple testing\nSECTOR MAP\n→ LEVEL 07 · Population stratification"
+  },
+  {
+    "objectID": "levels/twins-09.html",
+    "href": "levels/twins-09.html",
+    "title": "Reading the estimates",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 09\nReading the estimates\nWhat can we say, and not say, from a twin study?\nLOCKED 4-5 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 08 · Fitting the model\nSECTOR MAP\n→ LEVEL 10 · Equal environments"
+  },
+  {
+    "objectID": "levels/evolution-L02.html",
+    "href": "levels/evolution-L02.html",
+    "title": "Fisher’s fundamental theorem",
+    "section": "",
+    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL L02 · LEGENDARY\nFisher's fundamental theorem\nWhy does the speed of adaptation equal genetic variance in fitness?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L01 · The Price equation\nSECTOR MAP"
+  },
+  {
+    "objectID": "levels/twins-01.html",
+    "href": "levels/twins-01.html",
+    "title": "Twin correlation",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 01\nTwin correlation\nHow alike are twins, and does it matter which kind?\nLOCKED 4-5 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n\nSECTOR MAP\n→ LEVEL 02 · Genes add up"
+  },
+  {
+    "objectID": "levels/genomes-12.html",
+    "href": "levels/genomes-12.html",
+    "title": "Polygenic scores",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 12\nPolygenic scores\nHow do you add up a million tiny effects for one person?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 11 · Genetic correlation\nSECTOR MAP\n→ LEVEL 13 · How good is a polygenic score?"
+  },
+  {
+    "objectID": "levels/genomes-L03.html",
+    "href": "levels/genomes-L03.html",
+    "title": "Mendelian randomization",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL L03 · LEGENDARY\nMendelian randomization\nCan genes act as a natural experiment for cause and effect?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L02 · Genomic SEM\nSECTOR MAP\n→ LEVEL L04 · Fine-mapping"
+  },
+  {
+    "objectID": "levels/shrinkage-03.html",
+    "href": "levels/shrinkage-03.html",
+    "title": "Lasso regression",
+    "section": "",
+    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL 03\nLasso regression\nHow can a penalty set coefficients exactly to zero?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 02 · Ridge regression\nSECTOR MAP\n→ LEVEL 04 · Elastic net"
+  },
+  {
+    "objectID": "levels/evolution-12.html",
+    "href": "levels/evolution-12.html",
+    "title": "Antagonistic pleiotropy",
+    "section": "",
+    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 12\nAntagonistic pleiotropy\nCan a gene that helps the young harm the old?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 11 · The selection shadow\nSECTOR MAP\n→ LEVEL 13 · Disposable soma"
+  },
+  {
+    "objectID": "levels/evolution-02.html",
+    "href": "levels/evolution-02.html",
+    "title": "Adaptation",
+    "section": "",
+    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 02\nAdaptation\nWhat makes a trait an adaptation, and what world was it adapted to?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 01 · Variation, inheritance, selection\nSECTOR MAP\n→ LEVEL 03 · The gene's-eye view"
+  },
+  {
+    "objectID": "levels/shrinkage-01.html",
+    "href": "levels/shrinkage-01.html",
+    "title": "Too many predictors",
+    "section": "",
+    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL 01\nToo many predictors\nWhy does ordinary regression break when predictors outnumber people?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n\nSECTOR MAP\n→ LEVEL 02 · Ridge regression"
+  },
+  {
+    "objectID": "levels/shrinkage-L01.html",
+    "href": "levels/shrinkage-L01.html",
+    "title": "The bias–variance trade-off",
+    "section": "",
+    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL L01 · LEGENDARY\nThe bias–variance trade-off\nWhy does a deliberately biased model predict better?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 05 · Cross-validation\nSECTOR MAP\n→ LEVEL L02 · Penalties as priors"
+  },
+  {
+    "objectID": "levels/genomes-01.html",
+    "href": "levels/genomes-01.html",
+    "title": "Where are the genes?",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 01\nWhere are the genes?\nTwins say h² is about .5. Why is finding the genes so hard?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n\nSECTOR MAP\n→ LEVEL 02 · DNA as data"
+  },
+  {
+    "objectID": "levels/genomes-13.html",
+    "href": "levels/genomes-13.html",
+    "title": "How good is a polygenic score?",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 13\nHow good is a polygenic score?\nWhat does incremental R² mean, and why do scores travel badly across ancestries?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 12 · Polygenic scores\nSECTOR MAP\n→ LEVEL L01 · Within-family designs"
+  },
+  {
+    "objectID": "levels/shrinkage-05.html",
+    "href": "levels/shrinkage-05.html",
+    "title": "Cross-validation",
+    "section": "",
+    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL 05\nCross-validation\nHow do we choose how hard to shrink?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 04 · Elastic net\nSECTOR MAP\n→ LEVEL L01 · The bias–variance trade-off"
+  },
+  {
+    "objectID": "levels/methylation-08.html",
+    "href": "levels/methylation-08.html",
+    "title": "Building a clock",
+    "section": "",
+    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 08\nBuilding a clock\nHow does elastic net turn methylation into an age?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 07 · Differentially methylated regions\nSECTOR MAP\n→ LEVEL 09 · Generations of clocks"
+  },
+  {
+    "objectID": "levels/genomes-04.html",
+    "href": "levels/genomes-04.html",
+    "title": "A million regressions",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 04\nA million regressions\nWhat is a GWAS actually doing?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 03 · Linkage disequilibrium\nSECTOR MAP\n→ LEVEL 05 · Multiple testing"
+  },
+  {
+    "objectID": "levels/genomes-L01.html",
+    "href": "levels/genomes-L01.html",
+    "title": "Within-family designs",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL L01 · LEGENDARY\nWithin-family designs\nHow do siblings separate direct genetic effects from family?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 13 · How good is a polygenic score?\nSECTOR MAP\n→ LEVEL L02 · Genomic SEM"
+  },
+  {
+    "objectID": "levels/genomes-07.html",
+    "href": "levels/genomes-07.html",
+    "title": "Population stratification",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 07\nPopulation stratification\nHow can ancestry fake a genetic effect, and how do principal components help?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 06 · Reading a Manhattan plot\nSECTOR MAP\n→ LEVEL 08 · SNP heritability"
+  },
+  {
+    "objectID": "levels/foundations-01.html",
+    "href": "levels/foundations-01.html",
+    "title": "Variance",
+    "section": "",
+    "text": "SECTOR 00 // THE BOOT SECTOR · LEVEL 01\nVariance\nHow do we put a number on \"people differ\"?\nIN PRODUCTION 4-5 min\n\nLEVEL IN PRODUCTIONBeing built.\n\n\nSECTOR MAP\n→ LEVEL 02 · Covariance and correlation"
+  },
+  {
+    "objectID": "levels/genomes-08.html",
+    "href": "levels/genomes-08.html",
+    "title": "SNP heritability",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 08\nSNP heritability\nHow much variance do measured SNPs explain together (GCTA-GREML)?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 07 · Population stratification\nSECTOR MAP\n→ LEVEL 09 · Missing heritability"
+  },
+  {
+    "objectID": "levels/twins-03.html",
+    "href": "levels/twins-03.html",
+    "title": "What twins share",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 03\nWhat twins share\nWhy 100% for MZ and ½ for DZ?\nLOCKED 5-6 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 02 · Genes add up\nSECTOR MAP\n→ LEVEL 04 · Shared and unique environment"
+  },
+  {
+    "objectID": "levels/twins-L04.html",
+    "href": "levels/twins-L04.html",
+    "title": "Moderated twin models",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL L04 · LEGENDARY\nModerated twin models\nHow do a, c and e change across a measured environment?\nLOCKED 7-9 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L03 · Common and independent pathways\nSECTOR MAP\n→ LEVEL L05 · Twins across time"
+  },
+  {
+    "objectID": "levels/methylation-03.html",
+    "href": "levels/methylation-03.html",
+    "title": "Beta values and M-values",
+    "section": "",
+    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 03\nBeta values and M-values\nWhy are methylation data shaped like a U, and what do we do about it?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 02 · What the array measures\nSECTOR MAP\n→ LEVEL 04 · Cell-type composition"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Path Tracer",
+    "section": "",
+    "text": "A GAME OF VARIANCE, DESCENT AND LIGHT\nPATH TRACER\nShort, visual explainers for the methods of biosocial science. Every symbol gets a picture\nbefore it gets notation. Pick a sector; clear its levels; the Legendary tier opens at the end.\n\nSELECT SECTOR\n\nSECTOR 00The Boot SectorFOUNDATIONSHow do we measure difference, and what does it mean to hold something constant?0 of 6 levels online · 1 in production\nSECTOR 01The Tangled BankEVOLUTIONWhy would natural selection build bodies, minds and lifespans the way it has?0 of 15 levels online · 0 in production\nSECTOR 02The MirrorlandsTWINSPeople differ. How much of that difference traces to their genes, and how can twins tell us?0 of 22 levels online · 2 in production\nSECTOR 03The Twisted LadderGENOMESTwins say about half the variance is genetic. Where, in the DNA, is it?0 of 17 levels online · 0 in production\nSECTOR 04The Sparse WastesSHRINKAGEHow do you fit a model with more predictors than people?0 of 7 levels online · 0 in production\nSECTOR 05The Clockwork CitadelMETHYLATIONWhat do chemical marks on DNA tell us about experience and ageing?0 of 13 levels online · 0 in production"
+  },
+  {
+    "objectID": "levels/genomes-05.html",
+    "href": "levels/genomes-05.html",
+    "title": "Multiple testing",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 05\nMultiple testing\nWhy is the bar 5 × 10⁻⁸?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 04 · A million regressions\nSECTOR MAP\n→ LEVEL 06 · Reading a Manhattan plot"
+  },
+  {
+    "objectID": "levels/methylation-01.html",
+    "href": "levels/methylation-01.html",
+    "title": "Marks on the DNA",
+    "section": "",
+    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 01\nMarks on the DNA\nWhat is a methylated CpG site?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n\nSECTOR MAP\n→ LEVEL 02 · What the array measures"
+  },
+  {
+    "objectID": "levels/methylation-10.html",
+    "href": "levels/methylation-10.html",
+    "title": "Age acceleration",
+    "section": "",
+    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 10\nAge acceleration\nWhat does it mean to be biologically older than your age?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 09 · Generations of clocks\nSECTOR MAP\n→ LEVEL 11 · Residual or covariate?"
+  },
+  {
+    "objectID": "levels/twins-15.html",
+    "href": "levels/twins-15.html",
+    "title": "Are twins like everyone else?",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 15\nAre twins like everyone else?\nHow far do twin results generalise?\nLOCKED 3-4 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 14 · Gene–environment correlation\nSECTOR MAP\n→ LEVEL 16 · Beyond twins"
+  },
+  {
+    "objectID": "levels/genomes-11.html",
+    "href": "levels/genomes-11.html",
+    "title": "Genetic correlation",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 11\nGenetic correlation\nDo two traits share genetic influences, measured in DNA?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 10 · LD score regression\nSECTOR MAP\n→ LEVEL 12 · Polygenic scores"
+  },
+  {
+    "objectID": "levels/foundations-06.html",
+    "href": "levels/foundations-06.html",
+    "title": "Holding constant",
+    "section": "",
+    "text": "SECTOR 00 // THE BOOT SECTOR · LEVEL 06\nHolding constant\nWhat does it mean to control for something?\nLOCKED 6-7 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 05 · Variance explained\nSECTOR MAP"
+  },
+  {
+    "objectID": "levels/twins-13.html",
+    "href": "levels/twins-13.html",
+    "title": "Gene × environment interaction",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 13\nGene × environment interaction\nWhat if genes matter more in some environments?\nLOCKED 5-7 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 12 · When r_DZ looks too low\nSECTOR MAP\n→ LEVEL 14 · Gene–environment correlation"
+  },
+  {
+    "objectID": "levels/evolution-09.html",
+    "href": "levels/evolution-09.html",
+    "title": "Life history",
+    "section": "",
+    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 09\nLife history\nWhy is living fast a calibration rather than a deficit?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 08 · Mismatch\nSECTOR MAP\n→ LEVEL 10 · The Red Queen"
+  },
+  {
+    "objectID": "levels/twins-08.html",
+    "href": "levels/twins-08.html",
+    "title": "Fitting the model",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 08\nFitting the model\nWhat do real studies do beyond Falconer?\nLOCKED 5-7 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 07 · The ACE path diagram\nSECTOR MAP\n→ LEVEL 09 · Reading the estimates"
+  },
+  {
+    "objectID": "levels/genomes-09.html",
+    "href": "levels/genomes-09.html",
+    "title": "Missing heritability",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 09\nMissing heritability\nWhy is SNP-h² smaller than twin h²?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 08 · SNP heritability\nSECTOR MAP\n→ LEVEL 10 · LD score regression"
+  },
+  {
     "objectID": "levels/methylation-04.html",
     "href": "levels/methylation-04.html",
     "title": "Cell-type composition",
     "section": "",
     "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 04\nCell-type composition\nIs it the methylation, or just a different mix of cells?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 03 · Beta values and M-values\nSECTOR MAP\n→ LEVEL 05 · Batch effects"
+  },
+  {
+    "objectID": "levels/twins-06.html",
+    "href": "levels/twins-06.html",
+    "title": "Falconer’s formula",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 06\nFalconer's formula\nHow do two correlations give us heritability?\nIN PRODUCTION 4-5 min\n\nLEVEL IN PRODUCTIONBeing built.\n\n← LEVEL 05 · What heritability means\nSECTOR MAP\n→ LEVEL 07 · The ACE path diagram"
+  },
+  {
+    "objectID": "levels/genomes-10.html",
+    "href": "levels/genomes-10.html",
+    "title": "LD score regression",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL 10\nLD score regression\nHow do summary statistics alone give heritability and confounding?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 09 · Missing heritability\nSECTOR MAP\n→ LEVEL 11 · Genetic correlation"
+  },
+  {
+    "objectID": "levels/methylation-L01.html",
+    "href": "levels/methylation-L01.html",
+    "title": "meQTLs",
+    "section": "",
+    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL L01 · LEGENDARY\nmeQTLs\nHow much of methylation is set by the genome?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 11 · Residual or covariate?\nSECTOR MAP\n→ LEVEL L02 · Epigenetic inheritance"
+  },
+  {
+    "objectID": "levels/twins-12.html",
+    "href": "levels/twins-12.html",
+    "title": "When r_DZ looks too low",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 12\nWhen r_DZ looks too low\nIs it dominance, or are twins shaping each other?\nLOCKED 6-7 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 11 · Assortative mating\nSECTOR MAP\n→ LEVEL 13 · Gene × environment interaction"
+  },
+  {
+    "objectID": "levels/twins-L02.html",
+    "href": "levels/twins-L02.html",
+    "title": "Two traits at once",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL L02 · LEGENDARY\nTwo traits at once\nDo the same genes influence two different traits, and how does the Cholesky split them?\nLOCKED 7-9 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L01 · Co-twin control\nSECTOR MAP\n→ LEVEL L03 · Common and independent pathways"
+  },
+  {
+    "objectID": "levels/evolution-06.html",
+    "href": "levels/evolution-06.html",
+    "title": "Sexual selection",
+    "section": "",
+    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 06\nSexual selection\nHow do mate choice and parental investment shape risk-taking?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 05 · Reciprocal altruism\nSECTOR MAP\n→ LEVEL 07 · Drift"
+  },
+  {
+    "objectID": "levels/evolution-11.html",
+    "href": "levels/evolution-11.html",
+    "title": "The selection shadow",
+    "section": "",
+    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 11\nThe selection shadow\nWhy does selection go quiet in old age?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 10 · The Red Queen\nSECTOR MAP\n→ LEVEL 12 · Antagonistic pleiotropy"
+  },
+  {
+    "objectID": "levels/twins-14.html",
+    "href": "levels/twins-14.html",
+    "title": "Gene–environment correlation",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 14\nGene–environment correlation\nWhat if genes shape the environments people get?\nLOCKED 5-7 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 13 · Gene × environment interaction\nSECTOR MAP\n→ LEVEL 15 · Are twins like everyone else?"
+  },
+  {
+    "objectID": "levels/twins-07.html",
+    "href": "levels/twins-07.html",
+    "title": "The ACE path diagram",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 07\nThe ACE path diagram\nWhere do the twin equations come from?\nIN PRODUCTION 6-7 min\n\nIN PRODUCTION\n\n\n\n\n\n\nNoteThe maths, slowly\n\n\n\n\n\nDraft — last updated October 23, 2026.\nPut every variable on a standard scale, so each has variance 1. A twin’s score P is built from three latent sources, each with variance 1: additive genes A, shared environment C and unique environment E. The paths from them to P are a, c and e.\nWright’s tracing rules. The covariance between two variables is the sum, over every allowed chain between them, of the product of the path values along the chain. A chain may go backwards along arrows and then forwards, never forwards then backwards. It passes through at most one double-headed arrow, and it visits no variable twice.\nOne twin. A variable’s variance is its covariance with itself: the chains that leave P and come back.\n\\operatorname{Var}(P) = a^2 + c^2 + e^2 = 1\nIdentical (MZ) pairs. Twin 1’s A correlates 1 with twin 2’s A, and the C’s correlate 1. The E’s are not linked.\nr_{MZ} = a^2 + c^2\nFraternal (DZ) pairs. The A’s correlate ½, because DZ twins share half their segregating genes on average. The C’s still correlate 1.\nr_{DZ} = \\tfrac{1}{2}a^2 + c^2\nSubtract. The shared environment cancels:\nr_{MZ} - r_{DZ} = \\tfrac{1}{2}a^2 \\quad\\Rightarrow\\quad h^2 = a^2 = 2\\,(r_{MZ} - r_{DZ})\nWith the running example (r_MZ = .70, r_DZ = .40): a² = .60, c² = .70 − .60 = .10, e² = 1 − .70 = .30.\n\n\n\n\n← LEVEL 06 · Falconer's formula\nSECTOR MAP\n→ LEVEL 08 · Fitting the model"
+  },
+  {
+    "objectID": "levels/shrinkage-04.html",
+    "href": "levels/shrinkage-04.html",
+    "title": "Elastic net",
+    "section": "",
+    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL 04\nElastic net\nWhat happens when you blend ridge and lasso?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 03 · Lasso regression\nSECTOR MAP\n→ LEVEL 05 · Cross-validation"
+  },
+  {
+    "objectID": "levels/methylation-02.html",
+    "href": "levels/methylation-02.html",
+    "title": "What the array measures",
+    "section": "",
+    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 02\nWhat the array measures\nHow do 850,000 numbers come out of a blood sample?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 01 · Marks on the DNA\nSECTOR MAP\n→ LEVEL 03 · Beta values and M-values"
+  },
+  {
+    "objectID": "levels/evolution-04.html",
+    "href": "levels/evolution-04.html",
+    "title": "Kin selection",
+    "section": "",
+    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 04\nKin selection\nWhen does helping a relative pay, and where does Hamilton's r come from?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 03 · The gene's-eye view\nSECTOR MAP\n→ LEVEL 05 · Reciprocal altruism"
+  },
+  {
+    "objectID": "levels/genomes-L02.html",
+    "href": "levels/genomes-L02.html",
+    "title": "Genomic SEM",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL L02 · LEGENDARY\nGenomic SEM\nHow do you fit a factor model to genetic correlations?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L01 · Within-family designs\nSECTOR MAP\n→ LEVEL L03 · Mendelian randomization"
+  },
+  {
+    "objectID": "levels/evolution-05.html",
+    "href": "levels/evolution-05.html",
+    "title": "Reciprocal altruism",
+    "section": "",
+    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 05\nReciprocal altruism\nHow can cooperation among non-relatives survive cheaters?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 04 · Kin selection\nSECTOR MAP\n→ LEVEL 06 · Sexual selection"
+  },
+  {
+    "objectID": "levels/methylation-07.html",
+    "href": "levels/methylation-07.html",
+    "title": "Differentially methylated regions",
+    "section": "",
+    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL 07\nDifferentially methylated regions\nWhy look at neighbourhoods of sites instead of one at a time?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 06 · EWAS\nSECTOR MAP\n→ LEVEL 08 · Building a clock"
+  },
+  {
+    "objectID": "levels/methylation-L02.html",
+    "href": "levels/methylation-L02.html",
+    "title": "Epigenetic inheritance",
+    "section": "",
+    "text": "SECTOR 05 // THE CLOCKWORK CITADEL · LEVEL L02 · LEGENDARY\nEpigenetic inheritance\nWhat passes between generations, and what doesn't?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L01 · meQTLs\nSECTOR MAP"
+  },
+  {
+    "objectID": "levels/twins-02.html",
+    "href": "levels/twins-02.html",
+    "title": "Genes add up",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 02\nGenes add up\nHow do many small genetic effects make a smooth trait?\nLOCKED 4-5 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 01 · Twin correlation\nSECTOR MAP\n→ LEVEL 03 · What twins share"
+  },
+  {
+    "objectID": "levels/twins-10.html",
+    "href": "levels/twins-10.html",
+    "title": "Equal environments",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 10\nEqual environments\nWhat if MZ twins share more environment than DZ twins?\nLOCKED 5-6 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 09 · Reading the estimates\nSECTOR MAP\n→ LEVEL 11 · Assortative mating"
+  },
+  {
+    "objectID": "levels/twins-04.html",
+    "href": "levels/twins-04.html",
+    "title": "Shared and unique environment",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL 04\nShared and unique environment\nWhat counts as C, and what as E?\nLOCKED 4-5 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 03 · What twins share\nSECTOR MAP\n→ LEVEL 05 · What heritability means"
+  },
+  {
+    "objectID": "levels/shrinkage-02.html",
+    "href": "levels/shrinkage-02.html",
+    "title": "Ridge regression",
+    "section": "",
+    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL 02\nRidge regression\nWhat does shrinking every coefficient a little buy us?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 01 · Too many predictors\nSECTOR MAP\n→ LEVEL 03 · Lasso regression"
+  },
+  {
+    "objectID": "levels/twins-L03.html",
+    "href": "levels/twins-L03.html",
+    "title": "Common and independent pathways",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL L03 · LEGENDARY\nCommon and independent pathways\nIs there one latent factor behind several traits, or several routes?\nLOCKED 7-9 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L02 · Two traits at once\nSECTOR MAP\n→ LEVEL L04 · Moderated twin models"
+  },
+  {
+    "objectID": "levels/foundations-05.html",
+    "href": "levels/foundations-05.html",
+    "title": "Variance explained",
+    "section": "",
+    "text": "SECTOR 00 // THE BOOT SECTOR · LEVEL 05\nVariance explained\nHow much of the difference does the line account for?\nLOCKED 4-5 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 04 · The regression line\nSECTOR MAP\n→ LEVEL 06 · Holding constant"
+  },
+  {
+    "objectID": "levels/genomes-L04.html",
+    "href": "levels/genomes-L04.html",
+    "title": "Fine-mapping",
+    "section": "",
+    "text": "SECTOR 03 // THE TWISTED LADDER · LEVEL L04 · LEGENDARY\nFine-mapping\nWhich variant in a hit region is the real one?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L03 · Mendelian randomization\nSECTOR MAP"
+  },
+  {
+    "objectID": "levels/evolution-13.html",
+    "href": "levels/evolution-13.html",
+    "title": "Disposable soma",
+    "section": "",
+    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 13\nDisposable soma\nWhy does the body age while the germline doesn't?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 12 · Antagonistic pleiotropy\nSECTOR MAP\n→ LEVEL L01 · The Price equation"
+  },
+  {
+    "objectID": "levels/evolution-01.html",
+    "href": "levels/evolution-01.html",
+    "title": "Variation, inheritance, selection",
+    "section": "",
+    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 01\nVariation, inheritance, selection\nWhat does natural selection need, and what doesn't it need?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n\nSECTOR MAP\n→ LEVEL 02 · Adaptation"
+  },
+  {
+    "objectID": "levels/twins-L05.html",
+    "href": "levels/twins-L05.html",
+    "title": "Twins across time",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL L05 · LEGENDARY\nTwins across time\nAre the genes behind a trait at 10 the same ones at 20?\nLOCKED 7-9 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L04 · Moderated twin models\nSECTOR MAP\n→ LEVEL L06 · Sex limitation"
+  },
+  {
+    "objectID": "levels/evolution-L01.html",
+    "href": "levels/evolution-L01.html",
+    "title": "The Price equation",
+    "section": "",
+    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL L01 · LEGENDARY\nThe Price equation\nCan all of selection be written as one covariance?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 13 · Disposable soma\nSECTOR MAP\n→ LEVEL L02 · Fisher's fundamental theorem"
+  },
+  {
+    "objectID": "levels/evolution-10.html",
+    "href": "levels/evolution-10.html",
+    "title": "The Red Queen",
+    "section": "",
+    "text": "SECTOR 01 // THE TANGLED BANK · LEVEL 10\nThe Red Queen\nWhy must species keep running just to stay in place?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 09 · Life history\nSECTOR MAP\n→ LEVEL 11 · The selection shadow"
+  },
+  {
+    "objectID": "levels/twins-L01.html",
+    "href": "levels/twins-L01.html",
+    "title": "Co-twin control",
+    "section": "",
+    "text": "SECTOR 02 // THE MIRRORLANDS · LEVEL L01 · LEGENDARY\nCo-twin control\nIf one twin gets more of the exposure, what happens to them?\nLOCKED 6-8 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 16 · Beyond twins\nSECTOR MAP\n→ LEVEL L02 · Two traits at once"
+  },
+  {
+    "objectID": "sectors/foundations.html",
+    "href": "sectors/foundations.html",
+    "title": "The Boot Sector",
+    "section": "",
+    "text": "SECTOR 00 // FOUNDATIONS\nThe Boot Sector\nHow do we measure difference, and what does it mean to hold something constant?\n0 of 6 levels online · 1 in production · 6 core, 0 legendary\n\n\n\nZONE 1 // MEASURING DIFFERENCE\nLEVEL 01VarianceHow do we put a number on \"people differ\"?IN PRODUCTION\nLEVEL 02Covariance and correlationDo two scores move together, and how strongly?LOCKED\nLEVEL 03Standard unitsWhy rescale so the total is 1?LOCKED\nZONE 2 // LINES THROUGH CLOUDS\nLEVEL 04The regression lineWhat is the best straight line through a cloud of points?LOCKED\nLEVEL 05Variance explainedHow much of the difference does the line account for?LOCKED\nLEVEL 06Holding constantWhat does it mean to control for something?LOCKED"
+  },
+  {
+    "objectID": "sectors/methylation.html",
+    "href": "sectors/methylation.html",
+    "title": "The Clockwork Citadel",
+    "section": "",
+    "text": "SECTOR 05 // METHYLATION\nThe Clockwork Citadel\nWhat do chemical marks on DNA tell us about experience and ageing?\n0 of 13 levels online · 0 in production · 11 core, 2 legendary\n\n\n\nLEVEL 01Marks on the DNAWhat is a methylated CpG site?LOCKED\nLEVEL 02What the array measuresHow do 850,000 numbers come out of a blood sample?LOCKED\nLEVEL 03Beta values and M-valuesWhy are methylation data shaped like a U, and what do we do about it?LOCKED\nLEVEL 04Cell-type compositionIs it the methylation, or just a different mix of cells?LOCKED\nLEVEL 05Batch effectsHow can the day a plate was run look like biology?LOCKED\nLEVEL 06EWASWhat is an epigenome-wide association study testing?LOCKED\nLEVEL 07Differentially methylated regionsWhy look at neighbourhoods of sites instead of one at a time?LOCKED\nLEVEL 08Building a clockHow does elastic net turn methylation into an age?LOCKED\nLEVEL 09Generations of clocksWhat changed from Horvath and Hannum to PhenoAge, GrimAge and DunedinPACE?LOCKED\nLEVEL 10Age accelerationWhat does it mean to be biologically older than your age?LOCKED\nLEVEL 11Residual or covariate?Should we regress age out of the clock, or put age in the model?LOCKED\n\nLEGENDARY\nAdvanced levels. They open once the core path is clear.\n\nLEVEL L01meQTLsHow much of methylation is set by the genome?LOCKED\nLEVEL L02Epigenetic inheritanceWhat passes between generations, and what doesn't?LOCKED"
+  },
+  {
+    "objectID": "sectors/genomes.html",
+    "href": "sectors/genomes.html",
+    "title": "The Twisted Ladder",
+    "section": "",
+    "text": "SECTOR 03 // GENOMES\nThe Twisted Ladder\nTwins say about half the variance is genetic. Where, in the DNA, is it?\n0 of 17 levels online · 0 in production · 13 core, 4 legendary\n\n\n\nLEVEL 01Where are the genes?Twins say h² is about .5. Why is finding the genes so hard?LOCKED\nLEVEL 02DNA as dataHow does a genome become a column of 0s, 1s and 2s?LOCKED\nLEVEL 03Linkage disequilibriumWhy do neighbouring variants travel together?LOCKED\nLEVEL 04A million regressionsWhat is a GWAS actually doing?LOCKED\nLEVEL 05Multiple testingWhy is the bar 5 × 10⁻⁸?LOCKED\nLEVEL 06Reading a Manhattan plotWhat do the skyscrapers and the QQ plot tell us?LOCKED\nLEVEL 07Population stratificationHow can ancestry fake a genetic effect, and how do principal components help?LOCKED\nLEVEL 08SNP heritabilityHow much variance do measured SNPs explain together (GCTA-GREML)?LOCKED\nLEVEL 09Missing heritabilityWhy is SNP-h² smaller than twin h²?LOCKED\nLEVEL 10LD score regressionHow do summary statistics alone give heritability and confounding?LOCKED\nLEVEL 11Genetic correlationDo two traits share genetic influences, measured in DNA?LOCKED\nLEVEL 12Polygenic scoresHow do you add up a million tiny effects for one person?LOCKED\nLEVEL 13How good is a polygenic score?What does incremental R² mean, and why do scores travel badly across ancestries?LOCKED\n\nLEGENDARY\nAdvanced levels. They open once the core path is clear.\n\nLEVEL L01Within-family designsHow do siblings separate direct genetic effects from family?LOCKED\nLEVEL L02Genomic SEMHow do you fit a factor model to genetic correlations?LOCKED\nLEVEL L03Mendelian randomizationCan genes act as a natural experiment for cause and effect?LOCKED\nLEVEL L04Fine-mappingWhich variant in a hit region is the real one?LOCKED"
   }
 ]
