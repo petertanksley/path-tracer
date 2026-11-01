@@ -19,7 +19,7 @@ body-classes: pt-gen
 
 ```{=html}
 <nav class="level-nav">
-<a class="prev" href="twins-18.html">&larr; LEVEL 18 · Beyond twins</a>
+<a class="prev" href="twins-16.html">&larr; LEVEL 16 · Beyond twins</a>
 <a class="up" href="../sectors/twins.html">SECTOR MAP</a>
 <a class="next" href="twins-L02.html">&rarr; LEVEL L02 · Two traits at once</a>
 </nav>

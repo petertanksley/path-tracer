@@ -1,6 +1,6 @@
 ---
-title: "Genes add up"
-description: "How do many small genetic effects make a smooth trait?"
+title: "Shared and unique environment"
+description: "What counts as C, and what as E?"
 title-block-style: none
 body-classes: pt-gen
 ---
@@ -10,8 +10,8 @@ body-classes: pt-gen
 ```{=html}
 <header class="level-head sector-twins">
 <p class="hud"><a href="../sectors/twins.html">SECTOR 02 // THE MIRRORLANDS</a> · LEVEL 04</p>
-<h1 class="level-title">Genes add up</h1>
-<p class="level-question">How do many small genetic effects make a smooth trait?</p>
+<h1 class="level-title">Shared and unique environment</h1>
+<p class="level-question">What counts as C, and what as E?</p>
 <p class="level-meta"><span class="chip dark">LOCKED</span> 4-5 min</p>
 </header>
 <div class="screen locked"><span class="lock-title">LEVEL LOCKED</span><span class="lock-sub">Signal not yet acquired.</span></div>
@@ -19,8 +19,8 @@ body-classes: pt-gen
 
 ```{=html}
 <nav class="level-nav">
-<a class="prev" href="twins-03.html">&larr; LEVEL 03 · Standard units</a>
+<a class="prev" href="twins-03.html">&larr; LEVEL 03 · What twins share</a>
 <a class="up" href="../sectors/twins.html">SECTOR MAP</a>
-<a class="next" href="twins-05.html">&rarr; LEVEL 05 · What twins share</a>
+<a class="next" href="twins-05.html">&rarr; LEVEL 05 · What heritability means</a>
 </nav>
 ```

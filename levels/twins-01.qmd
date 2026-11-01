@@ -1,6 +1,6 @@
 ---
-title: "Variance"
-description: "How do we put a number on \"people differ\"?"
+title: "Twin correlation"
+description: "How alike are twins, and does it matter which kind?"
 title-block-style: none
 body-classes: pt-gen
 ---
@@ -10,8 +10,8 @@ body-classes: pt-gen
 ```{=html}
 <header class="level-head sector-twins">
 <p class="hud"><a href="../sectors/twins.html">SECTOR 02 // THE MIRRORLANDS</a> · LEVEL 01</p>
-<h1 class="level-title">Variance</h1>
-<p class="level-question">How do we put a number on &quot;people differ&quot;?</p>
+<h1 class="level-title">Twin correlation</h1>
+<p class="level-question">How alike are twins, and does it matter which kind?</p>
 <p class="level-meta"><span class="chip dark">LOCKED</span> 4-5 min</p>
 </header>
 <div class="screen locked"><span class="lock-title">LEVEL LOCKED</span><span class="lock-sub">Signal not yet acquired.</span></div>
@@ -21,6 +21,6 @@ body-classes: pt-gen
 <nav class="level-nav">
 <span class="prev"></span>
 <a class="up" href="../sectors/twins.html">SECTOR MAP</a>
-<a class="next" href="twins-02.html">&rarr; LEVEL 02 · Correlation</a>
+<a class="next" href="twins-02.html">&rarr; LEVEL 02 · Genes add up</a>
 </nav>
 ```

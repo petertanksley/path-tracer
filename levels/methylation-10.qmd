@@ -21,6 +21,6 @@ body-classes: pt-gen
 <nav class="level-nav">
 <a class="prev" href="methylation-09.html">&larr; LEVEL 09 · Generations of clocks</a>
 <a class="up" href="../sectors/methylation.html">SECTOR MAP</a>
-<a class="next" href="methylation-L01.html">&rarr; LEVEL L01 · meQTLs</a>
+<a class="next" href="methylation-11.html">&rarr; LEVEL 11 · Residual or covariate?</a>
 </nav>
 ```

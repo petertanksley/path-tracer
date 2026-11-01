@@ -1,6 +1,6 @@
 ---
-title: "Falconer's formula"
-description: "How do two correlations give us heritability?"
+title: "Fitting the model"
+description: "What do real studies do beyond Falconer?"
 title-block-style: none
 body-classes: pt-gen
 ---
@@ -10,17 +10,17 @@ body-classes: pt-gen
 ```{=html}
 <header class="level-head sector-twins">
 <p class="hud"><a href="../sectors/twins.html">SECTOR 02 // THE MIRRORLANDS</a> · LEVEL 08</p>
-<h1 class="level-title">Falconer's formula</h1>
-<p class="level-question">How do two correlations give us heritability?</p>
-<p class="level-meta"><span class="chip warm">IN PRODUCTION</span> 4-5 min</p>
+<h1 class="level-title">Fitting the model</h1>
+<p class="level-question">What do real studies do beyond Falconer?</p>
+<p class="level-meta"><span class="chip dark">LOCKED</span> 5-7 min</p>
 </header>
-<div class="screen locked"><span class="lock-title">LEVEL IN PRODUCTION</span><span class="lock-sub">Being built.</span></div>
+<div class="screen locked"><span class="lock-title">LEVEL LOCKED</span><span class="lock-sub">Signal not yet acquired.</span></div>
 ```
 
 ```{=html}
 <nav class="level-nav">
-<a class="prev" href="twins-07.html">&larr; LEVEL 07 · What heritability means</a>
+<a class="prev" href="twins-07.html">&larr; LEVEL 07 · The ACE path diagram</a>
 <a class="up" href="../sectors/twins.html">SECTOR MAP</a>
-<a class="next" href="twins-09.html">&rarr; LEVEL 09 · The ACE path diagram</a>
+<a class="next" href="twins-09.html">&rarr; LEVEL 09 · Reading the estimates</a>
 </nav>
 ```

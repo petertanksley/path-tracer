@@ -1,6 +1,6 @@
 ---
-title: "Fitting the model"
-description: "What do real studies do beyond Falconer?"
+title: "Equal environments"
+description: "What if MZ twins share more environment than DZ twins?"
 title-block-style: none
 body-classes: pt-gen
 ---
@@ -10,17 +10,17 @@ body-classes: pt-gen
 ```{=html}
 <header class="level-head sector-twins">
 <p class="hud"><a href="../sectors/twins.html">SECTOR 02 // THE MIRRORLANDS</a> · LEVEL 10</p>
-<h1 class="level-title">Fitting the model</h1>
-<p class="level-question">What do real studies do beyond Falconer?</p>
-<p class="level-meta"><span class="chip dark">LOCKED</span> 5-7 min</p>
+<h1 class="level-title">Equal environments</h1>
+<p class="level-question">What if MZ twins share more environment than DZ twins?</p>
+<p class="level-meta"><span class="chip dark">LOCKED</span> 5-6 min</p>
 </header>
 <div class="screen locked"><span class="lock-title">LEVEL LOCKED</span><span class="lock-sub">Signal not yet acquired.</span></div>
 ```
 
 ```{=html}
 <nav class="level-nav">
-<a class="prev" href="twins-09.html">&larr; LEVEL 09 · The ACE path diagram</a>
+<a class="prev" href="twins-09.html">&larr; LEVEL 09 · Reading the estimates</a>
 <a class="up" href="../sectors/twins.html">SECTOR MAP</a>
-<a class="next" href="twins-11.html">&rarr; LEVEL 11 · Reading the estimates</a>
+<a class="next" href="twins-11.html">&rarr; LEVEL 11 · Assortative mating</a>
 </nav>
 ```

@@ -85,8 +85,8 @@ h1, h2, h3, .hud, .sector-no, .node-tag, .chip, .select-label, .screen-badge, .l
 .select-label { text-align: center; font-size: .75rem; letter-spacing: .4em; color: var(--secondary); margin: 2rem 0 1rem; }
 
 .sector-grid {
-  display: grid; grid-template-columns: repeat(auto-fit, minmax(195px, 1fr)); gap: 1rem;
-  max-width: 1150px; margin: 0 auto 6rem; position: relative; z-index: 2;
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr)); gap: 1rem;   /* 3 x 2 for six sectors */
+  max-width: 900px; margin: 0 auto 6rem; position: relative; z-index: 2;
 }
 .sector-card {
   display: flex; flex-direction: column; gap: .45rem; padding: 1.2rem 1.2rem 1rem; text-decoration: none;

@@ -1,6 +1,6 @@
 ---
-title: "Assortative mating"
-description: "What if parents pair up on the trait?"
+title: "Gene × environment interaction"
+description: "What if genes matter more in some environments?"
 title-block-style: none
 body-classes: pt-gen
 ---
@@ -10,17 +10,17 @@ body-classes: pt-gen
 ```{=html}
 <header class="level-head sector-twins">
 <p class="hud"><a href="../sectors/twins.html">SECTOR 02 // THE MIRRORLANDS</a> · LEVEL 13</p>
-<h1 class="level-title">Assortative mating</h1>
-<p class="level-question">What if parents pair up on the trait?</p>
-<p class="level-meta"><span class="chip dark">LOCKED</span> 5-6 min</p>
+<h1 class="level-title">Gene × environment interaction</h1>
+<p class="level-question">What if genes matter more in some environments?</p>
+<p class="level-meta"><span class="chip dark">LOCKED</span> 5-7 min</p>
 </header>
 <div class="screen locked"><span class="lock-title">LEVEL LOCKED</span><span class="lock-sub">Signal not yet acquired.</span></div>
 ```
 
 ```{=html}
 <nav class="level-nav">
-<a class="prev" href="twins-12.html">&larr; LEVEL 12 · Equal environments</a>
+<a class="prev" href="twins-12.html">&larr; LEVEL 12 · When r_DZ looks too low</a>
 <a class="up" href="../sectors/twins.html">SECTOR MAP</a>
-<a class="next" href="twins-14.html">&rarr; LEVEL 14 · When r_DZ looks too low</a>
+<a class="next" href="twins-14.html">&rarr; LEVEL 14 · Gene–environment correlation</a>
 </nav>
 ```

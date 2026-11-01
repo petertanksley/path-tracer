@@ -19,7 +19,7 @@ body-classes: pt-gen
 
 ```{=html}
 <nav class="level-nav">
-<a class="prev" href="methylation-10.html">&larr; LEVEL 10 · Age acceleration</a>
+<a class="prev" href="methylation-11.html">&larr; LEVEL 11 · Residual or covariate?</a>
 <a class="up" href="../sectors/methylation.html">SECTOR MAP</a>
 <a class="next" href="methylation-L02.html">&rarr; LEVEL L02 · Epigenetic inheritance</a>
 </nav>
