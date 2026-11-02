@@ -9,7 +9,7 @@ body-classes: pt-gen
 
 ```{=html}
 <header class="level-head sector-foundations">
-<p class="hud"><a href="../sectors/foundations.html">SECTOR 00 // THE BOOT SECTOR</a> · LEVEL 06</p>
+<p class="hud"><a href="../sectors/foundations.html">TOOLKIT 00 // THE BOOT SECTOR</a> · LEVEL 06</p>
 <h1 class="level-title">Holding constant</h1>
 <p class="level-question">What does it mean to control for something?</p>
 <p class="level-meta"><span class="chip dark">LOCKED</span> 6-7 min</p>

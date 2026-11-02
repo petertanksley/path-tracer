@@ -9,7 +9,7 @@ body-classes: pt-gen
 
 ```{=html}
 <header class="level-head sector-shrinkage">
-<p class="hud"><a href="../sectors/shrinkage.html">SECTOR 04 // THE SPARSE WASTES</a> · LEVEL L02 · <span class="legendary-tag">LEGENDARY</span></p>
+<p class="hud"><a href="../sectors/shrinkage.html">TOOLKIT 04 // THE SPARSE WASTES</a> · LEVEL L02 · <span class="legendary-tag">LEGENDARY</span></p>
 <h1 class="level-title">Penalties as priors</h1>
 <p class="level-question">Why are ridge and lasso secretly Bayesian?</p>
 <p class="level-meta"><span class="chip dark">LOCKED</span></p>

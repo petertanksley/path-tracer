@@ -9,7 +9,7 @@ body-classes: pt-gen
 
 ```{=html}
 <header class="level-head sector-foundations">
-<p class="hud"><a href="../sectors/foundations.html">SECTOR 00 // THE BOOT SECTOR</a> · LEVEL 01</p>
+<p class="hud"><a href="../sectors/foundations.html">TOOLKIT 00 // THE BOOT SECTOR</a> · LEVEL 01</p>
 <h1 class="level-title">Variance</h1>
 <p class="level-question">How do we put a number on &quot;people differ&quot;?</p>
 <p class="level-meta"><span class="chip warm">IN PRODUCTION</span> 4-5 min</p>

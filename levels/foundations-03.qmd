@@ -9,7 +9,7 @@ body-classes: pt-gen
 
 ```{=html}
 <header class="level-head sector-foundations">
-<p class="hud"><a href="../sectors/foundations.html">SECTOR 00 // THE BOOT SECTOR</a> · LEVEL 03</p>
+<p class="hud"><a href="../sectors/foundations.html">TOOLKIT 00 // THE BOOT SECTOR</a> · LEVEL 03</p>
 <h1 class="level-title">Standard units</h1>
 <p class="level-question">Why rescale so the total is 1?</p>
 <p class="level-meta"><span class="chip dark">LOCKED</span> 3-4 min</p>
