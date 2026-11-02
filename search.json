@@ -32,7 +32,7 @@
     "href": "sectors/shrinkage.html",
     "title": "The Sparse Wastes",
     "section": "",
-    "text": "SECTOR 04 // SHRINKAGE\nThe Sparse Wastes\nHow do you fit a model with more predictors than people?\n0 of 7 levels online · 0 in production · 5 core, 2 legendary\n\n\n\nLEVEL 01Too many predictorsWhy does ordinary regression break when predictors outnumber people?LOCKED\nLEVEL 02Ridge regressionWhat does shrinking every coefficient a little buy us?LOCKED\nLEVEL 03Lasso regressionHow can a penalty set coefficients exactly to zero?LOCKED\nLEVEL 04Elastic netWhat happens when you blend ridge and lasso?LOCKED\nLEVEL 05Cross-validationHow do we choose how hard to shrink?LOCKED\n\nLEGENDARY\nAdvanced levels. They open once the core path is clear.\n\nLEVEL L01The bias–variance trade-offWhy does a deliberately biased model predict better?LOCKED\nLEVEL L02Penalties as priorsWhy are ridge and lasso secretly Bayesian?LOCKED"
+    "text": "TOOLKIT 04 // SHRINKAGE\nThe Sparse Wastes\nPolygenic scores and epigenetic clocks are both built from more predictors than there are people. Why doesn't that fall apart?\n0 of 7 levels online · 0 in production · 5 core, 2 legendary\n\n\n\nLEVEL 01Too many predictorsWhy does ordinary regression break when predictors outnumber people?LOCKED\nLEVEL 02Ridge regressionWhat does shrinking every coefficient a little buy us?LOCKED\nLEVEL 03Lasso regressionHow can a penalty set coefficients exactly to zero?LOCKED\nLEVEL 04Elastic netWhat happens when you blend ridge and lasso?LOCKED\nLEVEL 05Cross-validationHow do we choose how hard to shrink?LOCKED\n\nLEGENDARY\nAdvanced levels. They open once the core path is clear.\n\nLEVEL L01The bias–variance trade-offWhy does a deliberately biased model predict better?LOCKED\nLEVEL L02Penalties as priorsWhy are ridge and lasso secretly Bayesian?LOCKED"
   },
   {
     "objectID": "sectors/evolution.html",
@@ -53,14 +53,14 @@
     "href": "levels/foundations-04.html",
     "title": "The regression line",
     "section": "",
-    "text": "SECTOR 00 // THE BOOT SECTOR · LEVEL 04\nThe regression line\nWhat is the best straight line through a cloud of points?\nLOCKED 5-6 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 03 · Standard units\nSECTOR MAP\n→ LEVEL 05 · Variance explained"
+    "text": "TOOLKIT 00 // THE BOOT SECTOR · LEVEL 04\nThe regression line\nWhat is the best straight line through a cloud of points?\nLOCKED 5-6 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 03 · Standard units\nSECTOR MAP\n→ LEVEL 05 · Variance explained"
   },
   {
     "objectID": "levels/shrinkage-L02.html",
     "href": "levels/shrinkage-L02.html",
     "title": "Penalties as priors",
     "section": "",
-    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL L02 · LEGENDARY\nPenalties as priors\nWhy are ridge and lasso secretly Bayesian?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L01 · The bias–variance trade-off\nSECTOR MAP"
+    "text": "TOOLKIT 04 // THE SPARSE WASTES · LEVEL L02 · LEGENDARY\nPenalties as priors\nWhy are ridge and lasso secretly Bayesian?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL L01 · The bias–variance trade-off\nSECTOR MAP"
   },
   {
     "objectID": "levels/genomes-03.html",
@@ -88,7 +88,7 @@
     "href": "levels/foundations-03.html",
     "title": "Standard units",
     "section": "",
-    "text": "SECTOR 00 // THE BOOT SECTOR · LEVEL 03\nStandard units\nWhy rescale so the total is 1?\nLOCKED 3-4 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 02 · Covariance and correlation\nSECTOR MAP\n→ LEVEL 04 · The regression line"
+    "text": "TOOLKIT 00 // THE BOOT SECTOR · LEVEL 03\nStandard units\nWhy rescale so the total is 1?\nLOCKED 3-4 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 02 · Covariance and correlation\nSECTOR MAP\n→ LEVEL 04 · The regression line"
   },
   {
     "objectID": "levels/methylation-06.html",
@@ -130,7 +130,7 @@
     "href": "levels/foundations-02.html",
     "title": "Covariance and correlation",
     "section": "",
-    "text": "SECTOR 00 // THE BOOT SECTOR · LEVEL 02\nCovariance and correlation\nDo two scores move together, and how strongly?\nLOCKED 5-6 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 01 · Variance\nSECTOR MAP\n→ LEVEL 03 · Standard units"
+    "text": "TOOLKIT 00 // THE BOOT SECTOR · LEVEL 02\nCovariance and correlation\nDo two scores move together, and how strongly?\nLOCKED 5-6 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 01 · Variance\nSECTOR MAP\n→ LEVEL 03 · Standard units"
   },
   {
     "objectID": "levels/twins-16.html",
@@ -214,7 +214,7 @@
     "href": "levels/shrinkage-03.html",
     "title": "Lasso regression",
     "section": "",
-    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL 03\nLasso regression\nHow can a penalty set coefficients exactly to zero?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 02 · Ridge regression\nSECTOR MAP\n→ LEVEL 04 · Elastic net"
+    "text": "TOOLKIT 04 // THE SPARSE WASTES · LEVEL 03\nLasso regression\nHow can a penalty set coefficients exactly to zero?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 02 · Ridge regression\nSECTOR MAP\n→ LEVEL 04 · Elastic net"
   },
   {
     "objectID": "levels/evolution-12.html",
@@ -235,14 +235,14 @@
     "href": "levels/shrinkage-01.html",
     "title": "Too many predictors",
     "section": "",
-    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL 01\nToo many predictors\nWhy does ordinary regression break when predictors outnumber people?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n\nSECTOR MAP\n→ LEVEL 02 · Ridge regression"
+    "text": "TOOLKIT 04 // THE SPARSE WASTES · LEVEL 01\nToo many predictors\nWhy does ordinary regression break when predictors outnumber people?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n\nSECTOR MAP\n→ LEVEL 02 · Ridge regression"
   },
   {
     "objectID": "levels/shrinkage-L01.html",
     "href": "levels/shrinkage-L01.html",
     "title": "The bias–variance trade-off",
     "section": "",
-    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL L01 · LEGENDARY\nThe bias–variance trade-off\nWhy does a deliberately biased model predict better?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 05 · Cross-validation\nSECTOR MAP\n→ LEVEL L02 · Penalties as priors"
+    "text": "TOOLKIT 04 // THE SPARSE WASTES · LEVEL L01 · LEGENDARY\nThe bias–variance trade-off\nWhy does a deliberately biased model predict better?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 05 · Cross-validation\nSECTOR MAP\n→ LEVEL L02 · Penalties as priors"
   },
   {
     "objectID": "levels/genomes-01.html",
@@ -263,7 +263,7 @@
     "href": "levels/shrinkage-05.html",
     "title": "Cross-validation",
     "section": "",
-    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL 05\nCross-validation\nHow do we choose how hard to shrink?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 04 · Elastic net\nSECTOR MAP\n→ LEVEL L01 · The bias–variance trade-off"
+    "text": "TOOLKIT 04 // THE SPARSE WASTES · LEVEL 05\nCross-validation\nHow do we choose how hard to shrink?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 04 · Elastic net\nSECTOR MAP\n→ LEVEL L01 · The bias–variance trade-off"
   },
   {
     "objectID": "levels/methylation-08.html",
@@ -298,7 +298,7 @@
     "href": "levels/foundations-01.html",
     "title": "Variance",
     "section": "",
-    "text": "SECTOR 00 // THE BOOT SECTOR · LEVEL 01\nVariance\nHow do we put a number on \"people differ\"?\nIN PRODUCTION 4-5 min\n\nLEVEL IN PRODUCTIONBeing built.\n\n\nSECTOR MAP\n→ LEVEL 02 · Covariance and correlation"
+    "text": "TOOLKIT 00 // THE BOOT SECTOR · LEVEL 01\nVariance\nHow do we put a number on \"people differ\"?\nIN PRODUCTION 4-5 min\n\nLEVEL IN PRODUCTIONBeing built.\n\n\nSECTOR MAP\n→ LEVEL 02 · Covariance and correlation"
   },
   {
     "objectID": "levels/genomes-08.html",
@@ -333,7 +333,7 @@
     "href": "index.html",
     "title": "Path Tracer",
     "section": "",
-    "text": "A GAME OF VARIANCE, DESCENT AND LIGHT\nPATH TRACER\nShort, visual explainers for the methods of biosocial science. Every symbol gets a picture\nbefore it gets notation. Pick a sector; clear its levels; the Legendary tier opens at the end.\n\nSELECT SECTOR\n\nSECTOR 00The Boot SectorFOUNDATIONSHow do we measure difference, and what does it mean to hold something constant?0 of 6 levels online · 1 in production\nSECTOR 01The Tangled BankEVOLUTIONWhy would natural selection build bodies, minds and lifespans the way it has?0 of 15 levels online · 0 in production\nSECTOR 02The MirrorlandsTWINSPeople differ. How much of that difference traces to their genes, and how can twins tell us?0 of 22 levels online · 2 in production\nSECTOR 03The Twisted LadderGENOMESTwins say about half the variance is genetic. Where, in the DNA, is it?0 of 17 levels online · 0 in production\nSECTOR 04The Sparse WastesSHRINKAGEHow do you fit a model with more predictors than people?0 of 7 levels online · 0 in production\nSECTOR 05The Clockwork CitadelMETHYLATIONWhat do chemical marks on DNA tell us about experience and ageing?0 of 13 levels online · 0 in production"
+    "text": "A GAME OF VARIANCE, DESCENT AND LIGHT\nPATH TRACER\nShort, visual explainers for the methods of biosocial science. Every symbol gets a picture\nbefore it gets notation. Pick a sector; clear its levels; the Legendary tier opens at the end.\n\nSELECT SECTOR\n\nTOOLKIT 00The Boot SectorFOUNDATIONSHow do we measure difference, and what does it mean to hold something constant?0 of 6 levels online · 1 in production\nSECTOR 01The Tangled BankEVOLUTIONWhy would natural selection build bodies, minds and lifespans the way it has?0 of 15 levels online · 0 in production\nSECTOR 02The MirrorlandsTWINSPeople differ. How much of that difference traces to their genes, and how can twins tell us?0 of 22 levels online · 2 in production\nSECTOR 03The Twisted LadderGENOMESTwins say about half the variance is genetic. Where, in the DNA, is it?0 of 17 levels online · 0 in production\nTOOLKIT 04The Sparse WastesSHRINKAGEPolygenic scores and epigenetic clocks are both built from more predictors than there are people. Why doesn't that fall apart?0 of 7 levels online · 0 in production\nSECTOR 05The Clockwork CitadelMETHYLATIONWhat do chemical marks on DNA tell us about experience and ageing?0 of 13 levels online · 0 in production"
   },
   {
     "objectID": "levels/genomes-05.html",
@@ -375,7 +375,7 @@
     "href": "levels/foundations-06.html",
     "title": "Holding constant",
     "section": "",
-    "text": "SECTOR 00 // THE BOOT SECTOR · LEVEL 06\nHolding constant\nWhat does it mean to control for something?\nLOCKED 6-7 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 05 · Variance explained\nSECTOR MAP"
+    "text": "TOOLKIT 00 // THE BOOT SECTOR · LEVEL 06\nHolding constant\nWhat does it mean to control for something?\nLOCKED 6-7 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 05 · Variance explained\nSECTOR MAP"
   },
   {
     "objectID": "levels/twins-13.html",
@@ -480,7 +480,7 @@
     "href": "levels/shrinkage-04.html",
     "title": "Elastic net",
     "section": "",
-    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL 04\nElastic net\nWhat happens when you blend ridge and lasso?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 03 · Lasso regression\nSECTOR MAP\n→ LEVEL 05 · Cross-validation"
+    "text": "TOOLKIT 04 // THE SPARSE WASTES · LEVEL 04\nElastic net\nWhat happens when you blend ridge and lasso?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 03 · Lasso regression\nSECTOR MAP\n→ LEVEL 05 · Cross-validation"
   },
   {
     "objectID": "levels/methylation-02.html",
@@ -550,7 +550,7 @@
     "href": "levels/shrinkage-02.html",
     "title": "Ridge regression",
     "section": "",
-    "text": "SECTOR 04 // THE SPARSE WASTES · LEVEL 02\nRidge regression\nWhat does shrinking every coefficient a little buy us?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 01 · Too many predictors\nSECTOR MAP\n→ LEVEL 03 · Lasso regression"
+    "text": "TOOLKIT 04 // THE SPARSE WASTES · LEVEL 02\nRidge regression\nWhat does shrinking every coefficient a little buy us?\nLOCKED\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 01 · Too many predictors\nSECTOR MAP\n→ LEVEL 03 · Lasso regression"
   },
   {
     "objectID": "levels/twins-L03.html",
@@ -564,7 +564,7 @@
     "href": "levels/foundations-05.html",
     "title": "Variance explained",
     "section": "",
-    "text": "SECTOR 00 // THE BOOT SECTOR · LEVEL 05\nVariance explained\nHow much of the difference does the line account for?\nLOCKED 4-5 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 04 · The regression line\nSECTOR MAP\n→ LEVEL 06 · Holding constant"
+    "text": "TOOLKIT 00 // THE BOOT SECTOR · LEVEL 05\nVariance explained\nHow much of the difference does the line account for?\nLOCKED 4-5 min\n\nLEVEL LOCKEDSignal not yet acquired.\n\n← LEVEL 04 · The regression line\nSECTOR MAP\n→ LEVEL 06 · Holding constant"
   },
   {
     "objectID": "levels/genomes-L04.html",
@@ -620,7 +620,7 @@
     "href": "sectors/foundations.html",
     "title": "The Boot Sector",
     "section": "",
-    "text": "SECTOR 00 // FOUNDATIONS\nThe Boot Sector\nHow do we measure difference, and what does it mean to hold something constant?\n0 of 6 levels online · 1 in production · 6 core, 0 legendary\n\n\n\nZONE 1 // MEASURING DIFFERENCE\nLEVEL 01VarianceHow do we put a number on \"people differ\"?IN PRODUCTION\nLEVEL 02Covariance and correlationDo two scores move together, and how strongly?LOCKED\nLEVEL 03Standard unitsWhy rescale so the total is 1?LOCKED\nZONE 2 // LINES THROUGH CLOUDS\nLEVEL 04The regression lineWhat is the best straight line through a cloud of points?LOCKED\nLEVEL 05Variance explainedHow much of the difference does the line account for?LOCKED\nLEVEL 06Holding constantWhat does it mean to control for something?LOCKED"
+    "text": "TOOLKIT 00 // FOUNDATIONS\nThe Boot Sector\nHow do we measure difference, and what does it mean to hold something constant?\n0 of 6 levels online · 1 in production · 6 core, 0 legendary\n\n\n\nZONE 1 // MEASURING DIFFERENCE\nLEVEL 01VarianceHow do we put a number on \"people differ\"?IN PRODUCTION\nLEVEL 02Covariance and correlationDo two scores move together, and how strongly?LOCKED\nLEVEL 03Standard unitsWhy rescale so the total is 1?LOCKED\nZONE 2 // LINES THROUGH CLOUDS\nLEVEL 04The regression lineWhat is the best straight line through a cloud of points?LOCKED\nLEVEL 05Variance explainedHow much of the difference does the line account for?LOCKED\nLEVEL 06Holding constantWhat does it mean to control for something?LOCKED"
   },
   {
     "objectID": "sectors/methylation.html",
